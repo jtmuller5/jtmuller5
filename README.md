@@ -14,8 +14,8 @@
 
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
