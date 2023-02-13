@@ -31,11 +31,6 @@
 - [Answer by Banjoe for SceneBuilder not loading in Intellij](https://stackoverflow.com/questions/63425513/scenebuilder-not-loading-in-intellij/75424260#75424260)
 <!-- STACKOVERFLOW:END -->
 
-## This week I spent my time on📊
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=banjoe&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/banjoe__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtmuller5" height="30" width="40" /></a>
