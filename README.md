@@ -31,9 +31,9 @@
 - [Answer by Banjoe for SceneBuilder not loading in Intellij](https://stackoverflow.com/questions/63425513/scenebuilder-not-loading-in-intellij/75424260#75424260)
 <!-- STACKOVERFLOW:END -->
 
-📊 &nbsp;**This week I spent my time on**
+## This week I spent my time on📊
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jtmuller5&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=banjoe&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 ## Connect with me
@@ -45,10 +45,6 @@
 </p>
 
 ## Support me and my projects
-
-<a href="https://www.paypal.com/paypalme/jtmuller5" target="_blank">
-  <img src="https://user-images.githubusercontent.com/5956938/203525449-b51e3679-e086-44eb-bbf6-60255cb1675a.png" alt="Donate with PayPal" style="max-width: 300px"/>
-</a>
 
 <a href="https://buymeacoffee.com/mullr" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br>
