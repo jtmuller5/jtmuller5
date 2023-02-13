@@ -19,6 +19,11 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for web view for flutter web application](https://stackoverflow.com/questions/66328758/web-view-for-flutter-web-application/75441046#75441046)
+- [Answer by Banjoe for Flutter Webview not working for Flutter web](https://stackoverflow.com/questions/61499763/flutter-webview-not-working-for-flutter-web/75440760#75440760)
+- [Answer by Banjoe for No signature of method: org.gradle.api.tasks.bundling.Jar.destinationDir&lpar;&rpar;](https://stackoverflow.com/questions/75294879/no-signature-of-method-org-gradle-api-tasks-bundling-jar-destinationdir/75440515#75440515)
+- [Answer by Banjoe for FXMLLoader cannot find JavaFX classes but manual creation of JavaFX creations work](https://stackoverflow.com/questions/69781812/fxmlloader-cannot-find-javafx-classes-but-manual-creation-of-javafx-creations-wo/75424847#75424847)
+- [Answer by Banjoe for SceneBuilder not loading in Intellij](https://stackoverflow.com/questions/63425513/scenebuilder-not-loading-in-intellij/75424260#75424260)
 <!-- STACKOVERFLOW:END -->
 
 
