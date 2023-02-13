@@ -15,6 +15,11 @@
 
 ## Blog posts
 <!-- MEDIUM-STORY-LIST:START -->
+- [Adding a ToolWindow to an IntelliJ Plugin](https://jtmuller5.medium.com/adding-a-toolwindow-to-an-intellij-plugin-7b08ebc5ce6d?source=rss-832e1120db1f------2)
+- [Enhanced Enums in Flutter 3](https://jtmuller5.medium.com/enhanced-enums-in-flutter-3-c6b6b4716e43?source=rss-832e1120db1f------2)
+- [Flutter Fast, Flutter Far — Issue #4](https://jtmuller5.medium.com/flutter-fast-flutter-far-issue-4-27b572d2dd46?source=rss-832e1120db1f------2)
+- [Flutter Fast, Flutter Far — Issue #3](https://jtmuller5.medium.com/flutter-fast-flutter-far-issue-3-a6e27064a0c3?source=rss-832e1120db1f------2)
+- [Flutter Fast, Flutter Far — Issue #2](https://jtmuller5.medium.com/flutter-fast-flutter-far-issue-2-1dc963355c3a?source=rss-832e1120db1f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
