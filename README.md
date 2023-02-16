@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for git push hangs and does nothing](https://stackoverflow.com/questions/3802188/git-push-hangs-and-does-nothing/75473386#75473386)
 - [Answer by Banjoe for How do you put JSON into environment variables?](https://stackoverflow.com/questions/71613606/how-do-you-put-json-into-environment-variables/75450515#75450515)
 - [Answer by Banjoe for Does Android Studio have a note section?](https://stackoverflow.com/questions/75441425/does-android-studio-have-a-note-section/75441467#75441467)
 - [Answer by Banjoe for web view for flutter web application](https://stackoverflow.com/questions/66328758/web-view-for-flutter-web-application/75441046#75441046)
@@ -33,7 +34,6 @@
 - [Answer by Banjoe for SceneBuilder not loading in Intellij](https://stackoverflow.com/questions/63425513/scenebuilder-not-loading-in-intellij/75424260#75424260)
 - [Answer by Banjoe for Idea says &quot;The JavaFX runtime is not configured. Either use a JDK that has the JavaFX built in, or add a JavaFX library to the classpath&quot;](https://stackoverflow.com/questions/52105820/idea-says-the-javafx-runtime-is-not-configured-either-use-a-jdk-that-has-the-j/75424236#75424236)
 - [Answer by Banjoe for Flutter Integration testing failing when moving between tests](https://stackoverflow.com/questions/71674018/flutter-integration-testing-failing-when-moving-between-tests/75407062#75407062)
-- [Answer by Banjoe for Querying the mapped value of provider&lpar;interface java.util.Set&rpar; before task &#39;:app:processDebugGoogleServices&#39; has completed is not supported](https://stackoverflow.com/questions/73982784/querying-the-mapped-value-of-providerinterface-java-util-set-before-task-app/75388804#75388804)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
