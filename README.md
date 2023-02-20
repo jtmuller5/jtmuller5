@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for How to wrap text in a JTextArea](https://stackoverflow.com/questions/8858584/how-to-wrap-text-in-a-jtextarea/75504251#75504251)
+- [Answer by Banjoe for &lpar;IntelliJ GUI Designer&rpar; Runtime NullPointerException upon adding a component to a JPanel](https://stackoverflow.com/questions/59475813/intellij-gui-designer-runtime-nullpointerexception-upon-adding-a-component-to/75503667#75503667)
+- [Answer by Banjoe for Unable to make field private final java.lang.String java.io.File.path accessible Qt Android](https://stackoverflow.com/questions/72323063/unable-to-make-field-private-final-java-lang-string-java-io-file-path-accessible/75502295#75502295)
+- [Answer by Banjoe for Flutter FireStore: Unable to reverse a firebase snapshot list](https://stackoverflow.com/questions/75501560/flutter-firestore-unable-to-reverse-a-firebase-snapshot-list/75501576#75501576)
 - [Answer by Banjoe for Best practice for showing db imagepicked and asset files in the same GridView](https://stackoverflow.com/questions/75500636/best-practice-for-showing-db-imagepicked-and-asset-files-in-the-same-gridview/75500748#75500748)
 - [Answer by Banjoe for How to know how many users downloaded App from App store?](https://stackoverflow.com/questions/8941466/how-to-know-how-many-users-downloaded-app-from-app-store/75499381#75499381)
 - [Answer by Banjoe for How to freely drag and drop elements on IntelliJ IDEA GUI designer for Java?](https://stackoverflow.com/questions/20007289/how-to-freely-drag-and-drop-elements-on-intellij-idea-gui-designer-for-java/75497702#75497702)
 - [Answer by Banjoe for How can I freely move JComponents in IntelliJ GUI Designer?](https://stackoverflow.com/questions/62249980/how-can-i-freely-move-jcomponents-in-intellij-gui-designer/75497523#75497523)
 - [Answer by Banjoe for Always update widget flutter](https://stackoverflow.com/questions/75494253/always-update-widget-flutter/75494379#75494379)
 - [Answer by Banjoe for FieldValue arrayUnion and Cloud FireStore with Flutter](https://stackoverflow.com/questions/52332758/fieldvalue-arrayunion-and-cloud-firestore-with-flutter/75480289#75480289)
-- [Answer by Banjoe for git push hangs and does nothing](https://stackoverflow.com/questions/3802188/git-push-hangs-and-does-nothing/75473386#75473386)
-- [Answer by Banjoe for How do you put JSON into environment variables?](https://stackoverflow.com/questions/71613606/how-do-you-put-json-into-environment-variables/75450515#75450515)
-- [Answer by Banjoe for Does Android Studio have a note section?](https://stackoverflow.com/questions/75441425/does-android-studio-have-a-note-section/75441467#75441467)
-- [Answer by Banjoe for web view for flutter web application](https://stackoverflow.com/questions/66328758/web-view-for-flutter-web-application/75441046#75441046)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
