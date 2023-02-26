@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for Flutter gradle Build failed with an exception. &gt; Could not find com.otaliastudios:transcoder:0.9.1](https://stackoverflow.com/questions/74576677/flutter-gradle-build-failed-with-an-exception-could-not-find-com-otaliastudio/75568184#75568184)
 - [Answer by Banjoe for How to wrap text in a JTextArea](https://stackoverflow.com/questions/8858584/how-to-wrap-text-in-a-jtextarea/75504251#75504251)
 - [Answer by Banjoe for &lpar;IntelliJ GUI Designer&rpar; Runtime NullPointerException upon adding a component to a JPanel](https://stackoverflow.com/questions/59475813/intellij-gui-designer-runtime-nullpointerexception-upon-adding-a-component-to/75503667#75503667)
 - [Answer by Banjoe for Unable to make field private final java.lang.String java.io.File.path accessible Qt Android](https://stackoverflow.com/questions/72323063/unable-to-make-field-private-final-java-lang-string-java-io-file-path-accessible/75502295#75502295)
@@ -33,7 +34,6 @@
 - [Answer by Banjoe for How to freely drag and drop elements on IntelliJ IDEA GUI designer for Java?](https://stackoverflow.com/questions/20007289/how-to-freely-drag-and-drop-elements-on-intellij-idea-gui-designer-for-java/75497702#75497702)
 - [Answer by Banjoe for How can I freely move JComponents in IntelliJ GUI Designer?](https://stackoverflow.com/questions/62249980/how-can-i-freely-move-jcomponents-in-intellij-gui-designer/75497523#75497523)
 - [Answer by Banjoe for Always update widget flutter](https://stackoverflow.com/questions/75494253/always-update-widget-flutter/75494379#75494379)
-- [Answer by Banjoe for FieldValue arrayUnion and Cloud FireStore with Flutter](https://stackoverflow.com/questions/52332758/fieldvalue-arrayunion-and-cloud-firestore-with-flutter/75480289#75480289)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
