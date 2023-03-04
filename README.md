@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for Android Gradle plugin supports only Kotlin Gradle plugin version 1.5.20 and higher](https://stackoverflow.com/questions/74329121/android-gradle-plugin-supports-only-kotlin-gradle-plugin-version-1-5-20-and-high/75633012#75633012)
+- [Answer by Banjoe for Flutter: how to build a custom toolbar for Selectable Text~](https://stackoverflow.com/questions/67393633/flutter-how-to-build-a-custom-toolbar-for-selectable-text/75629967#75629967)
 - [Answer by Banjoe for Flutter gradle Build failed with an exception. &gt; Could not find com.otaliastudios:transcoder:0.9.1](https://stackoverflow.com/questions/74576677/flutter-gradle-build-failed-with-an-exception-could-not-find-com-otaliastudio/75568184#75568184)
 - [Answer by Banjoe for How to wrap text in a JTextArea](https://stackoverflow.com/questions/8858584/how-to-wrap-text-in-a-jtextarea/75504251#75504251)
 - [Answer by Banjoe for &lpar;IntelliJ GUI Designer&rpar; Runtime NullPointerException upon adding a component to a JPanel](https://stackoverflow.com/questions/59475813/intellij-gui-designer-runtime-nullpointerexception-upon-adding-a-component-to/75503667#75503667)
@@ -32,8 +34,6 @@
 - [Answer by Banjoe for Best practice for showing db imagepicked and asset files in the same GridView](https://stackoverflow.com/questions/75500636/best-practice-for-showing-db-imagepicked-and-asset-files-in-the-same-gridview/75500748#75500748)
 - [Answer by Banjoe for How to know how many users downloaded App from App store?](https://stackoverflow.com/questions/8941466/how-to-know-how-many-users-downloaded-app-from-app-store/75499381#75499381)
 - [Answer by Banjoe for How to freely drag and drop elements on IntelliJ IDEA GUI designer for Java?](https://stackoverflow.com/questions/20007289/how-to-freely-drag-and-drop-elements-on-intellij-idea-gui-designer-for-java/75497702#75497702)
-- [Answer by Banjoe for How can I freely move JComponents in IntelliJ GUI Designer?](https://stackoverflow.com/questions/62249980/how-can-i-freely-move-jcomponents-in-intellij-gui-designer/75497523#75497523)
-- [Answer by Banjoe for Always update widget flutter](https://stackoverflow.com/questions/75494253/always-update-widget-flutter/75494379#75494379)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
