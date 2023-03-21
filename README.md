@@ -15,11 +15,11 @@
 
 ## Blog posts
 <!-- MEDIUM-STORY-LIST:START -->
+- [HustleGPT and a 1000 Star Repo](https://jtmuller5.medium.com/hustlegpt-and-a-1000-star-repo-aea7f4b778e3?source=rss-832e1120db1f------2)
 - [Controlling the Size of IntelliJ Plugin Tool Windows](https://jtmuller5.medium.com/controlling-the-size-of-intellij-plugin-tool-windows-e9a9083689cd?source=rss-832e1120db1f------2)
 - [Adding Swing UI Components to an IntelliJ Tool Window](https://jtmuller5.medium.com/adding-swing-ui-components-to-an-intellij-tool-window-db0462b2d486?source=rss-832e1120db1f------2)
 - [Adding a ToolWindow to an IntelliJ Plugin](https://jtmuller5.medium.com/adding-a-toolwindow-to-an-intellij-plugin-7b08ebc5ce6d?source=rss-832e1120db1f------2)
 - [Enhanced Enums in Flutter 3](https://jtmuller5.medium.com/enhanced-enums-in-flutter-3-c6b6b4716e43?source=rss-832e1120db1f------2)
-- [Flutter Fast, Flutter Far — Issue #4](https://jtmuller5.medium.com/flutter-fast-flutter-far-issue-4-27b572d2dd46?source=rss-832e1120db1f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
