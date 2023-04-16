@@ -15,11 +15,11 @@
 
 ## Blog posts
 <!-- MEDIUM-STORY-LIST:START -->
+- [Julia Plotting Cheat Sheet](https://jtmuller5.medium.com/julia-plotting-cheat-sheet-fc67086f8c17?source=rss-832e1120db1f------2)
 - [Manifest.toml vs Project.toml in Julia](https://jtmuller5.medium.com/manifest-toml-vs-project-toml-in-julia-21ecbad6f92f?source=rss-832e1120db1f------2)
 - [HustleGPT and a 1000 Star Repo](https://jtmuller5.medium.com/hustlegpt-and-a-1000-star-repo-aea7f4b778e3?source=rss-832e1120db1f------2)
 - [Controlling the Size of IntelliJ Plugin Tool Windows](https://jtmuller5.medium.com/controlling-the-size-of-intellij-plugin-tool-windows-e9a9083689cd?source=rss-832e1120db1f------2)
 - [Adding Swing UI Components to an IntelliJ Tool Window](https://jtmuller5.medium.com/adding-swing-ui-components-to-an-intellij-tool-window-db0462b2d486?source=rss-832e1120db1f------2)
-- [Adding a ToolWindow to an IntelliJ Plugin](https://jtmuller5.medium.com/adding-a-toolwindow-to-an-intellij-plugin-7b08ebc5ce6d?source=rss-832e1120db1f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
