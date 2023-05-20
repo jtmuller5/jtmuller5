@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for Flutter web, recording session with smartlook or hotjar showing blanck screen](https://stackoverflow.com/questions/73637409/flutter-web-recording-session-with-smartlook-or-hotjar-showing-blanck-screen/76294989#76294989)
 - [Answer by Banjoe for Flutter: User-Defined Issue &lpar;Xcode&rpar;: Unsupported Swift architecture](https://stackoverflow.com/questions/74531499/flutter-user-defined-issue-xcode-unsupported-swift-architecture/75722636#75722636)
 - [Answer by Banjoe for Android Gradle plugin supports only Kotlin Gradle plugin version 1.5.20 and higher](https://stackoverflow.com/questions/74329121/android-gradle-plugin-supports-only-kotlin-gradle-plugin-version-1-5-20-and-high/75633012#75633012)
 - [Answer by Banjoe for Flutter: how to build a custom toolbar for Selectable Text~](https://stackoverflow.com/questions/67393633/flutter-how-to-build-a-custom-toolbar-for-selectable-text/75629967#75629967)
@@ -33,7 +34,6 @@
 - [Answer by Banjoe for Unable to make field private final java.lang.String java.io.File.path accessible Qt Android](https://stackoverflow.com/questions/72323063/unable-to-make-field-private-final-java-lang-string-java-io-file-path-accessible/75502295#75502295)
 - [Answer by Banjoe for Flutter FireStore: Unable to reverse a firebase snapshot list](https://stackoverflow.com/questions/75501560/flutter-firestore-unable-to-reverse-a-firebase-snapshot-list/75501576#75501576)
 - [Answer by Banjoe for Best practice for showing db imagepicked and asset files in the same GridView](https://stackoverflow.com/questions/75500636/best-practice-for-showing-db-imagepicked-and-asset-files-in-the-same-gridview/75500748#75500748)
-- [Answer by Banjoe for How to know how many users downloaded App from App store?](https://stackoverflow.com/questions/8941466/how-to-know-how-many-users-downloaded-app-from-app-store/75499381#75499381)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
