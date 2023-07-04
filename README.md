@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for react-highlightjs not highlighting syntax code as expected](https://stackoverflow.com/questions/76445529/react-highlightjs-not-highlighting-syntax-code-as-expected/76607047#76607047)
+- [Answer by Banjoe for react-syntax-highlighter new line in Clojure code sample](https://stackoverflow.com/questions/48595337/react-syntax-highlighter-new-line-in-clojure-code-sample/76606966#76606966)
+- [Answer by Banjoe for How to make React SyntaxHighlighter display multiple lines](https://stackoverflow.com/questions/69528005/how-to-make-react-syntaxhighlighter-display-multiple-lines/76606934#76606934)
 - [Answer by Banjoe for Flutter web, recording session with smartlook or hotjar showing blanck screen](https://stackoverflow.com/questions/73637409/flutter-web-recording-session-with-smartlook-or-hotjar-showing-blanck-screen/76294989#76294989)
 - [Answer by Banjoe for Flutter: User-Defined Issue &lpar;Xcode&rpar;: Unsupported Swift architecture](https://stackoverflow.com/questions/74531499/flutter-user-defined-issue-xcode-unsupported-swift-architecture/75722636#75722636)
 - [Answer by Banjoe for Android Gradle plugin supports only Kotlin Gradle plugin version 1.5.20 and higher](https://stackoverflow.com/questions/74329121/android-gradle-plugin-supports-only-kotlin-gradle-plugin-version-1-5-20-and-high/75633012#75633012)
@@ -31,9 +34,6 @@
 - [Answer by Banjoe for Flutter gradle Build failed with an exception. &gt; Could not find com.otaliastudios:transcoder:0.9.1](https://stackoverflow.com/questions/74576677/flutter-gradle-build-failed-with-an-exception-could-not-find-com-otaliastudio/75568184#75568184)
 - [Answer by Banjoe for How to wrap text in a JTextArea](https://stackoverflow.com/questions/8858584/how-to-wrap-text-in-a-jtextarea/75504251#75504251)
 - [Answer by Banjoe for &lpar;IntelliJ GUI Designer&rpar; Runtime NullPointerException upon adding a component to a JPanel](https://stackoverflow.com/questions/59475813/intellij-gui-designer-runtime-nullpointerexception-upon-adding-a-component-to/75503667#75503667)
-- [Answer by Banjoe for Unable to make field private final java.lang.String java.io.File.path accessible Qt Android](https://stackoverflow.com/questions/72323063/unable-to-make-field-private-final-java-lang-string-java-io-file-path-accessible/75502295#75502295)
-- [Answer by Banjoe for Flutter FireStore: Unable to reverse a firebase snapshot list](https://stackoverflow.com/questions/75501560/flutter-firestore-unable-to-reverse-a-firebase-snapshot-list/75501576#75501576)
-- [Answer by Banjoe for Best practice for showing db imagepicked and asset files in the same GridView](https://stackoverflow.com/questions/75500636/best-practice-for-showing-db-imagepicked-and-asset-files-in-the-same-gridview/75500748#75500748)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
