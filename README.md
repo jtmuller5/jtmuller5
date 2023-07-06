@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for How to create a 3 column layout structure in react.js](https://stackoverflow.com/questions/58277981/how-to-create-a-3-column-layout-structure-in-react-js/76625314#76625314)
+- [Answer by Banjoe for Flutter APK not build in Mac m2 “font-subset” can’t be opened because Apple cannot check it for malicious software](https://stackoverflow.com/questions/76248189/flutter-apk-not-build-in-mac-m2-font-subset-can-t-be-opened-because-apple-cann/76625034#76625034)
+- [Answer by Banjoe for Because every version of flutter_test from sdk depends on path 1.8.1](https://stackoverflow.com/questions/72941308/because-every-version-of-flutter-test-from-sdk-depends-on-path-1-8-1/76623388#76623388)
+- [Answer by Banjoe for How to fix Flutter test from sdk is incompatible with flutter from sdk?](https://stackoverflow.com/questions/76622471/how-to-fix-flutter-test-from-sdk-is-incompatible-with-flutter-from-sdk/76623312#76623312)
+- [Answer by Banjoe for Because every version of flutter_test from sdk depends on... flutter_test from sdk is forbidden, version solving failed](https://stackoverflow.com/questions/53096839/because-every-version-of-flutter-test-from-sdk-depends-on-flutter-test-from-s/76623267#76623267)
 - [Answer by Banjoe for react-highlightjs not highlighting syntax code as expected](https://stackoverflow.com/questions/76445529/react-highlightjs-not-highlighting-syntax-code-as-expected/76607047#76607047)
 - [Answer by Banjoe for react-syntax-highlighter new line in Clojure code sample](https://stackoverflow.com/questions/48595337/react-syntax-highlighter-new-line-in-clojure-code-sample/76606966#76606966)
 - [Answer by Banjoe for How to make React SyntaxHighlighter display multiple lines](https://stackoverflow.com/questions/69528005/how-to-make-react-syntaxhighlighter-display-multiple-lines/76606934#76606934)
 - [Answer by Banjoe for Flutter web, recording session with smartlook or hotjar showing blanck screen](https://stackoverflow.com/questions/73637409/flutter-web-recording-session-with-smartlook-or-hotjar-showing-blanck-screen/76294989#76294989)
 - [Answer by Banjoe for Flutter: User-Defined Issue &lpar;Xcode&rpar;: Unsupported Swift architecture](https://stackoverflow.com/questions/74531499/flutter-user-defined-issue-xcode-unsupported-swift-architecture/75722636#75722636)
-- [Answer by Banjoe for Android Gradle plugin supports only Kotlin Gradle plugin version 1.5.20 and higher](https://stackoverflow.com/questions/74329121/android-gradle-plugin-supports-only-kotlin-gradle-plugin-version-1-5-20-and-high/75633012#75633012)
-- [Answer by Banjoe for Flutter: how to build a custom toolbar for Selectable Text~](https://stackoverflow.com/questions/67393633/flutter-how-to-build-a-custom-toolbar-for-selectable-text/75629967#75629967)
-- [Answer by Banjoe for Flutter gradle Build failed with an exception. &gt; Could not find com.otaliastudios:transcoder:0.9.1](https://stackoverflow.com/questions/74576677/flutter-gradle-build-failed-with-an-exception-could-not-find-com-otaliastudio/75568184#75568184)
-- [Answer by Banjoe for How to wrap text in a JTextArea](https://stackoverflow.com/questions/8858584/how-to-wrap-text-in-a-jtextarea/75504251#75504251)
-- [Answer by Banjoe for &lpar;IntelliJ GUI Designer&rpar; Runtime NullPointerException upon adding a component to a JPanel](https://stackoverflow.com/questions/59475813/intellij-gui-designer-runtime-nullpointerexception-upon-adding-a-component-to/75503667#75503667)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
