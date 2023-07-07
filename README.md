@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Banjoe for How to set a specific flexbox gap in CSS](https://stackoverflow.com/questions/48601246/how-to-set-a-specific-flexbox-gap-in-css/76637284#76637284)
+- [Answer by Banjoe for Show zoomed in part of an image](https://stackoverflow.com/questions/76631380/show-zoomed-in-part-of-an-image/76631549#76631549)
+- [Answer by Banjoe for Listen a ValueNotifier from class](https://stackoverflow.com/questions/68423299/listen-a-valuenotifier-from-class/76630375#76630375)
 - [Answer by Banjoe for How to create a 3 column layout structure in react.js](https://stackoverflow.com/questions/58277981/how-to-create-a-3-column-layout-structure-in-react-js/76625314#76625314)
 - [Answer by Banjoe for Flutter APK not build in Mac m2 “font-subset” can’t be opened because Apple cannot check it for malicious software](https://stackoverflow.com/questions/76248189/flutter-apk-not-build-in-mac-m2-font-subset-can-t-be-opened-because-apple-cann/76625034#76625034)
 - [Answer by Banjoe for Because every version of flutter_test from sdk depends on path 1.8.1](https://stackoverflow.com/questions/72941308/because-every-version-of-flutter-test-from-sdk-depends-on-path-1-8-1/76623388#76623388)
@@ -31,9 +34,6 @@
 - [Answer by Banjoe for Because every version of flutter_test from sdk depends on... flutter_test from sdk is forbidden, version solving failed](https://stackoverflow.com/questions/53096839/because-every-version-of-flutter-test-from-sdk-depends-on-flutter-test-from-s/76623267#76623267)
 - [Answer by Banjoe for react-highlightjs not highlighting syntax code as expected](https://stackoverflow.com/questions/76445529/react-highlightjs-not-highlighting-syntax-code-as-expected/76607047#76607047)
 - [Answer by Banjoe for react-syntax-highlighter new line in Clojure code sample](https://stackoverflow.com/questions/48595337/react-syntax-highlighter-new-line-in-clojure-code-sample/76606966#76606966)
-- [Answer by Banjoe for How to make React SyntaxHighlighter display multiple lines](https://stackoverflow.com/questions/69528005/how-to-make-react-syntaxhighlighter-display-multiple-lines/76606934#76606934)
-- [Answer by Banjoe for Flutter web, recording session with smartlook or hotjar showing blanck screen](https://stackoverflow.com/questions/73637409/flutter-web-recording-session-with-smartlook-or-hotjar-showing-blanck-screen/76294989#76294989)
-- [Answer by Banjoe for Flutter: User-Defined Issue &lpar;Xcode&rpar;: Unsupported Swift architecture](https://stackoverflow.com/questions/74531499/flutter-user-defined-issue-xcode-unsupported-swift-architecture/75722636#75722636)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
