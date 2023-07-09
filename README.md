@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Missing width and height attributes for &lt;../image/path&gt;](https://stackoverflow.com/questions/76643826/missing-width-and-height-attributes-for-image-path)
+- [Answer by Banjoe for Missing width and height attributes for &lt;../image/path&gt;](https://stackoverflow.com/questions/76643826/missing-width-and-height-attributes-for-image-path/76643827#76643827)
 - [Answer by Banjoe for How to set a specific flexbox gap in CSS](https://stackoverflow.com/questions/48601246/how-to-set-a-specific-flexbox-gap-in-css/76637284#76637284)
 - [Answer by Banjoe for Show zoomed in part of an image](https://stackoverflow.com/questions/76631380/show-zoomed-in-part-of-an-image/76631549#76631549)
 - [Answer by Banjoe for Listen a ValueNotifier from class](https://stackoverflow.com/questions/68423299/listen-a-valuenotifier-from-class/76630375#76630375)
@@ -32,8 +34,6 @@
 - [Answer by Banjoe for Because every version of flutter_test from sdk depends on path 1.8.1](https://stackoverflow.com/questions/72941308/because-every-version-of-flutter-test-from-sdk-depends-on-path-1-8-1/76623388#76623388)
 - [Answer by Banjoe for How to fix Flutter test from sdk is incompatible with flutter from sdk?](https://stackoverflow.com/questions/76622471/how-to-fix-flutter-test-from-sdk-is-incompatible-with-flutter-from-sdk/76623312#76623312)
 - [Answer by Banjoe for Because every version of flutter_test from sdk depends on... flutter_test from sdk is forbidden, version solving failed](https://stackoverflow.com/questions/53096839/because-every-version-of-flutter-test-from-sdk-depends-on-flutter-test-from-s/76623267#76623267)
-- [Answer by Banjoe for react-highlightjs not highlighting syntax code as expected](https://stackoverflow.com/questions/76445529/react-highlightjs-not-highlighting-syntax-code-as-expected/76607047#76607047)
-- [Answer by Banjoe for react-syntax-highlighter new line in Clojure code sample](https://stackoverflow.com/questions/48595337/react-syntax-highlighter-new-line-in-clojure-code-sample/76606966#76606966)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
