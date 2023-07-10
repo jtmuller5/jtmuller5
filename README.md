@@ -15,11 +15,11 @@
 
 ## Blog posts
 <!-- MEDIUM-STORY-LIST:START -->
+- [Creating a Password Reset Flow with AppWrite and Flutter | Code On The Rocks](https://jtmuller5.medium.com/creating-a-password-reset-flow-with-appwrite-and-flutter-code-on-the-rocks-9db556be3cb7?source=rss-832e1120db1f------2)
+- [Butler Labs OCR in Flutter | Code On The Rocks](https://jtmuller5.medium.com/butler-labs-ocr-in-flutter-code-on-the-rocks-423518f2713a?source=rss-832e1120db1f------2)
 - [Julia Plotting Cheat Sheet](https://jtmuller5.medium.com/julia-plotting-cheat-sheet-fc67086f8c17?source=rss-832e1120db1f------2)
 - [Manifest.toml vs Project.toml in Julia](https://jtmuller5.medium.com/manifest-toml-vs-project-toml-in-julia-21ecbad6f92f?source=rss-832e1120db1f------2)
 - [HustleGPT and a 1000 Star Repo](https://jtmuller5.medium.com/hustlegpt-and-a-1000-star-repo-aea7f4b778e3?source=rss-832e1120db1f------2)
-- [Controlling the Size of IntelliJ Plugin Tool Windows](https://jtmuller5.medium.com/controlling-the-size-of-intellij-plugin-tool-windows-e9a9083689cd?source=rss-832e1120db1f------2)
-- [Adding Swing UI Components to an IntelliJ Tool Window](https://jtmuller5.medium.com/adding-swing-ui-components-to-an-intellij-tool-window-db0462b2d486?source=rss-832e1120db1f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
