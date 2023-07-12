@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How can I centralize enviroment information in flutter](https://stackoverflow.com/questions/76664529/how-can-i-centralize-enviroment-information-in-flutter/76664552#76664552)
+- [Answer by Code on the Rocks for Google Play Store does not see dart define variable](https://stackoverflow.com/questions/76664331/google-play-store-does-not-see-dart-define-variable/76664502#76664502)
+- [Answer by Code on the Rocks for why I can&#39;t change the value of the variable?](https://stackoverflow.com/questions/76664393/why-i-cant-change-the-value-of-the-variable/76664411#76664411)
 - [Answer by Code on the Rocks for Conditional Position Property of Navbar Component not Working in Tailwind](https://stackoverflow.com/questions/76655982/conditional-position-property-of-navbar-component-not-working-in-tailwind/76656160#76656160)
 - [Answer by Code on the Rocks for Flutter Exception caught by widgets library error and Stack Overflow with red color in simulator](https://stackoverflow.com/questions/76655579/flutter-exception-caught-by-widgets-library-error-and-stack-overflow-with-red-co/76655855#76655855)
 - [Missing width and height attributes for &lt;../image/path&gt;](https://stackoverflow.com/questions/76643826/missing-width-and-height-attributes-for-image-path)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for How to set a specific flexbox gap in CSS](https://stackoverflow.com/questions/48601246/how-to-set-a-specific-flexbox-gap-in-css/76637284#76637284)
 - [Answer by Code on the Rocks for Show zoomed in part of an image](https://stackoverflow.com/questions/76631380/show-zoomed-in-part-of-an-image/76631549#76631549)
 - [Answer by Code on the Rocks for Listen a ValueNotifier from class](https://stackoverflow.com/questions/68423299/listen-a-valuenotifier-from-class/76630375#76630375)
-- [Answer by Code on the Rocks for How to create a 3 column layout structure in react.js](https://stackoverflow.com/questions/58277981/how-to-create-a-3-column-layout-structure-in-react-js/76625314#76625314)
-- [Answer by Code on the Rocks for Flutter APK not build in Mac m2 “font-subset” can’t be opened because Apple cannot check it for malicious software](https://stackoverflow.com/questions/76248189/flutter-apk-not-build-in-mac-m2-font-subset-can-t-be-opened-because-apple-cann/76625034#76625034)
-- [Answer by Code on the Rocks for Because every version of flutter_test from sdk depends on path 1.8.1](https://stackoverflow.com/questions/72941308/because-every-version-of-flutter-test-from-sdk-depends-on-path-1-8-1/76623388#76623388)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
