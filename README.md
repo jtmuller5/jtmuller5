@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Unmap Control t in ideavimrc](https://stackoverflow.com/questions/75215579/unmap-control-t-in-ideavimrc/76812093#76812093)
+- [Answer by Code on the Rocks for Flutter test find by sub text](https://stackoverflow.com/questions/62153280/flutter-test-find-by-sub-text/76807728#76807728)
 - [Answer by Code on the Rocks for How do I tell IntelliJ IdeaVim to re-source the .ideavimrc](https://stackoverflow.com/questions/46719530/how-do-i-tell-intellij-ideavim-to-re-source-the-ideavimrc/76799570#76799570)
 - [Answer by Code on the Rocks for Flutter: Issue with creating horizontal list](https://stackoverflow.com/questions/76793559/flutter-issue-with-creating-horizontal-list/76793618#76793618)
 - [Answer by Code on the Rocks for TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid/76772052#76772052)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for Google Play Store does not see dart define variable](https://stackoverflow.com/questions/76664331/google-play-store-does-not-see-dart-define-variable/76664502#76664502)
 - [Answer by Code on the Rocks for why I can&#39;t change the value of the variable?](https://stackoverflow.com/questions/76664393/why-i-cant-change-the-value-of-the-variable/76664411#76664411)
 - [Answer by Code on the Rocks for Conditional Position Property of Navbar Component not Working in Tailwind](https://stackoverflow.com/questions/76655982/conditional-position-property-of-navbar-component-not-working-in-tailwind/76656160#76656160)
-- [Answer by Code on the Rocks for Flutter Exception caught by widgets library error and Stack Overflow with red color in simulator](https://stackoverflow.com/questions/76655579/flutter-exception-caught-by-widgets-library-error-and-stack-overflow-with-red-co/76655855#76655855)
-- [Missing width and height attributes for &lt;../image/path&gt;](https://stackoverflow.com/questions/76643826/missing-width-and-height-attributes-for-image-path)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
