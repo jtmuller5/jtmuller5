@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to set maximum line of text using flex css react](https://stackoverflow.com/questions/72228723/how-to-set-maximum-line-of-text-using-flex-css-react/76902279#76902279)
 - [Answer by Code on the Rocks for Unmap Control t in ideavimrc](https://stackoverflow.com/questions/75215579/unmap-control-t-in-ideavimrc/76812093#76812093)
 - [Answer by Code on the Rocks for Flutter test find by sub text](https://stackoverflow.com/questions/62153280/flutter-test-find-by-sub-text/76807728#76807728)
 - [Answer by Code on the Rocks for How do I tell IntelliJ IdeaVim to re-source the .ideavimrc](https://stackoverflow.com/questions/46719530/how-do-i-tell-intellij-ideavim-to-re-source-the-ideavimrc/76799570#76799570)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for How can I centralize enviroment information in flutter](https://stackoverflow.com/questions/76664529/how-can-i-centralize-enviroment-information-in-flutter/76664552#76664552)
 - [Answer by Code on the Rocks for Google Play Store does not see dart define variable](https://stackoverflow.com/questions/76664331/google-play-store-does-not-see-dart-define-variable/76664502#76664502)
 - [Answer by Code on the Rocks for why I can&#39;t change the value of the variable?](https://stackoverflow.com/questions/76664393/why-i-cant-change-the-value-of-the-variable/76664411#76664411)
-- [Answer by Code on the Rocks for Conditional Position Property of Navbar Component not Working in Tailwind](https://stackoverflow.com/questions/76655982/conditional-position-property-of-navbar-component-not-working-in-tailwind/76656160#76656160)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
