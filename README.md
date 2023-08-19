@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Why my theme is not applied in my Flutter app?](https://stackoverflow.com/questions/76934871/why-my-theme-is-not-applied-in-my-flutter-app/76935004#76935004)
+- [Answer by Code on the Rocks for Get form data from controller in nested form widgets of flutter](https://stackoverflow.com/questions/76934881/get-form-data-from-controller-in-nested-form-widgets-of-flutter/76934979#76934979)
 - [Answer by Code on the Rocks for How to set maximum line of text using flex css react](https://stackoverflow.com/questions/72228723/how-to-set-maximum-line-of-text-using-flex-css-react/76902279#76902279)
 - [Answer by Code on the Rocks for Unmap Control t in ideavimrc](https://stackoverflow.com/questions/75215579/unmap-control-t-in-ideavimrc/76812093#76812093)
 - [Answer by Code on the Rocks for Flutter test find by sub text](https://stackoverflow.com/questions/62153280/flutter-test-find-by-sub-text/76807728#76807728)
@@ -32,8 +34,6 @@
 - [TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid)
 - [Answer by Code on the Rocks for TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid/76772052#76772052)
 - [Answer by Code on the Rocks for How can I centralize enviroment information in flutter](https://stackoverflow.com/questions/76664529/how-can-i-centralize-enviroment-information-in-flutter/76664552#76664552)
-- [Answer by Code on the Rocks for Google Play Store does not see dart define variable](https://stackoverflow.com/questions/76664331/google-play-store-does-not-see-dart-define-variable/76664502#76664502)
-- [Answer by Code on the Rocks for why I can&#39;t change the value of the variable?](https://stackoverflow.com/questions/76664393/why-i-cant-change-the-value-of-the-variable/76664411#76664411)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
