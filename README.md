@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Flutter: After Changes won&#39;t run on mobile platforms](https://stackoverflow.com/questions/76941430/flutter-after-changes-wont-run-on-mobile-platforms/76941742#76941742)
 - [Answer by Code on the Rocks for Why my theme is not applied in my Flutter app?](https://stackoverflow.com/questions/76934871/why-my-theme-is-not-applied-in-my-flutter-app/76935004#76935004)
 - [Answer by Code on the Rocks for Get form data from controller in nested form widgets of flutter](https://stackoverflow.com/questions/76934881/get-form-data-from-controller-in-nested-form-widgets-of-flutter/76934979#76934979)
 - [Answer by Code on the Rocks for How to set maximum line of text using flex css react](https://stackoverflow.com/questions/72228723/how-to-set-maximum-line-of-text-using-flex-css-react/76902279#76902279)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Flutter: Issue with creating horizontal list](https://stackoverflow.com/questions/76793559/flutter-issue-with-creating-horizontal-list/76793618#76793618)
 - [Answer by Code on the Rocks for TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid/76772052#76772052)
 - [TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid)
-- [Answer by Code on the Rocks for How can I centralize enviroment information in flutter](https://stackoverflow.com/questions/76664529/how-can-i-centralize-enviroment-information-in-flutter/76664552#76664552)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
