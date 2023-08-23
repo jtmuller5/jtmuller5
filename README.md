@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to test Flutter app where there is an async call in initState&lpar;&rpar;?](https://stackoverflow.com/questions/53511473/how-to-test-flutter-app-where-there-is-an-async-call-in-initstate/76957293#76957293)
+- [Answer by Code on the Rocks for flutter url_launcher doesn&#39;t dial tel scheme on ios simulator](https://stackoverflow.com/questions/76957190/flutter-url-launcher-doesnt-dial-tel-scheme-on-ios-simulator/76957257#76957257)
+- [Answer by Code on the Rocks for Text interpolation is showing the wrong result](https://stackoverflow.com/questions/76957220/text-interpolation-is-showing-the-wrong-result/76957240#76957240)
 - [Answer by Code on the Rocks for Hide an import line when run flutter application in web](https://stackoverflow.com/questions/76944169/hide-an-import-line-when-run-flutter-application-in-web/76946724#76946724)
 - [Answer by Code on the Rocks for Flutter: After Changes won&#39;t run on mobile platforms](https://stackoverflow.com/questions/76941430/flutter-after-changes-wont-run-on-mobile-platforms/76941742#76941742)
 - [Answer by Code on the Rocks for Why my theme is not applied in my Flutter app?](https://stackoverflow.com/questions/76934871/why-my-theme-is-not-applied-in-my-flutter-app/76935004#76935004)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for How to set maximum line of text using flex css react](https://stackoverflow.com/questions/72228723/how-to-set-maximum-line-of-text-using-flex-css-react/76902279#76902279)
 - [Answer by Code on the Rocks for Unmap Control t in ideavimrc](https://stackoverflow.com/questions/75215579/unmap-control-t-in-ideavimrc/76812093#76812093)
 - [Answer by Code on the Rocks for Flutter test find by sub text](https://stackoverflow.com/questions/62153280/flutter-test-find-by-sub-text/76807728#76807728)
-- [Answer by Code on the Rocks for How do I tell IntelliJ IdeaVim to re-source the .ideavimrc](https://stackoverflow.com/questions/46719530/how-do-i-tell-intellij-ideavim-to-re-source-the-ideavimrc/76799570#76799570)
-- [Answer by Code on the Rocks for Flutter: Issue with creating horizontal list](https://stackoverflow.com/questions/76793559/flutter-issue-with-creating-horizontal-list/76793618#76793618)
-- [TypeError: Cannot read properties of undefined &lpar;reading &#39;MapTypeId&#39;&rpar;](https://stackoverflow.com/questions/76772051/typeerror-cannot-read-properties-of-undefined-reading-maptypeid)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
