@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Troubleshooting Dart XMLHttpRequest error - works for Flutter mobile, not for Flutter web](https://stackoverflow.com/questions/67190192/troubleshooting-dart-xmlhttprequest-error-works-for-flutter-mobile-not-for-fl/77011608#77011608)
+- [Answer by Code on the Rocks for Error when deploying 2nd gen Firebase Cloud Function](https://stackoverflow.com/questions/76829663/error-when-deploying-2nd-gen-firebase-cloud-function/77011561#77011561)
+- [Answer by Code on the Rocks for Multer with firebase functions](https://stackoverflow.com/questions/47589591/multer-with-firebase-functions/77011052#77011052)
+- [Answer by Code on the Rocks for Error: Functions codebase could not be analyzed successfully during deployment in Firebase](https://stackoverflow.com/questions/76666908/error-functions-codebase-could-not-be-analyzed-successfully-during-deployment-i/77010621#77010621)
+- [Answer by Code on the Rocks for Can&#39;t serve express app on firebase functions emulator | EADDRINUSE: address already in use :::3000](https://stackoverflow.com/questions/70631543/cant-serve-express-app-on-firebase-functions-emulator-eaddrinuse-address-alr/77010602#77010602)
+- [Answer by Code on the Rocks for Firebase Function shutdown requested via /__/quitquitquit Functions codebase could not be analyzed successfully. It may have a syntax or runtime error](https://stackoverflow.com/questions/76578094/firebase-function-shutdown-requested-via-quitquitquit-functions-codebase-cou/77010580#77010580)
+- [Answer by Code on the Rocks for FirebaseError: Failed to load environment variables from .env](https://stackoverflow.com/questions/76021514/firebaseerror-failed-to-load-environment-variables-from-env/77010512#77010512)
 - [Answer by Code on the Rocks for Flutrer Pub.dev data api](https://stackoverflow.com/questions/61269510/flutrer-pub-dev-data-api/77008728#77008728)
 - [Answer by Code on the Rocks for How to test Flutter app where there is an async call in initState&lpar;&rpar;?](https://stackoverflow.com/questions/53511473/how-to-test-flutter-app-where-there-is-an-async-call-in-initstate/76957293#76957293)
 - [Answer by Code on the Rocks for flutter url_launcher doesn&#39;t dial tel scheme on ios simulator](https://stackoverflow.com/questions/76957190/flutter-url-launcher-doesnt-dial-tel-scheme-on-ios-simulator/76957257#76957257)
-- [Answer by Code on the Rocks for Text interpolation is showing the wrong result](https://stackoverflow.com/questions/76957220/text-interpolation-is-showing-the-wrong-result/76957240#76957240)
-- [Answer by Code on the Rocks for Hide an import line when run flutter application in web](https://stackoverflow.com/questions/76944169/hide-an-import-line-when-run-flutter-application-in-web/76946724#76946724)
-- [Answer by Code on the Rocks for Flutter: After Changes won&#39;t run on mobile platforms](https://stackoverflow.com/questions/76941430/flutter-after-changes-wont-run-on-mobile-platforms/76941742#76941742)
-- [Answer by Code on the Rocks for Why my theme is not applied in my Flutter app?](https://stackoverflow.com/questions/76934871/why-my-theme-is-not-applied-in-my-flutter-app/76935004#76935004)
-- [Answer by Code on the Rocks for Get form data from controller in nested form widgets of flutter](https://stackoverflow.com/questions/76934881/get-form-data-from-controller-in-nested-form-widgets-of-flutter/76934979#76934979)
-- [Answer by Code on the Rocks for How to set maximum line of text using flex css react](https://stackoverflow.com/questions/72228723/how-to-set-maximum-line-of-text-using-flex-css-react/76902279#76902279)
-- [Answer by Code on the Rocks for Unmap Control t in ideavimrc](https://stackoverflow.com/questions/75215579/unmap-control-t-in-ideavimrc/76812093#76812093)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
