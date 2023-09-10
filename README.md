@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtmuller5&label=Profile%20views&color=0e75b6&style=flat" alt="jtmuller5" /> </p>
 
-- 🔭 I’m currently working on [pwa_install](https://github.com/jtmuller5/pwa_install)
+- 🔭 I’m currently working on [Flutter Fast](https://codeotr.github.io/flutter-fast-guide/)
 
-- 📝 I regularly write articles on [https://medium.com/@jtmuller5](https://medium.com/@jtmuller5)
+- 📝 I regularly write articles on [codeontherocks.dev](https://codeontherocks.dev/)
 
 - 💬 Ask me about **Flutter and Firebase**
 
