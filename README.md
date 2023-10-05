@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How do I activate my virtual environment using PyCharm? Can I even activate it in PyCharm?](https://stackoverflow.com/questions/69697863/how-do-i-activate-my-virtual-environment-using-pycharm-can-i-even-activate-it-i/77237787#77237787)
+- [Answer by Code on the Rocks for flutter number keyboard doesn&#39;t have done button](https://stackoverflow.com/questions/52244180/flutter-number-keyboard-doesnt-have-done-button/77230947#77230947)
 - [Answer by Code on the Rocks for Allow accessibility screen reader to read a number string one-by-one as digits using semantics [flutter]](https://stackoverflow.com/questions/67501981/allow-accessibility-screen-reader-to-read-a-number-string-one-by-one-as-digits-u/77182267#77182267)
 - [Answer by Code on the Rocks for Expand a SingleChildScrollView inside a column to take up as much room as it needs but no more](https://stackoverflow.com/questions/77070399/expand-a-singlechildscrollview-inside-a-column-to-take-up-as-much-room-as-it-nee/77070408#77070408)
 - [Answer by Code on the Rocks for Shorebird release ios-alpha fails](https://stackoverflow.com/questions/77054757/shorebird-release-ios-alpha-fails/77054758#77054758)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for How to copy file and directory to clipboard in dart?](https://stackoverflow.com/questions/76106809/how-to-copy-file-and-directory-to-clipboard-in-dart/77020416#77020416)
 - [Answer by Code on the Rocks for Troubleshooting Dart XMLHttpRequest error - works for Flutter mobile, not for Flutter web](https://stackoverflow.com/questions/67190192/troubleshooting-dart-xmlhttprequest-error-works-for-flutter-mobile-not-for-fl/77011608#77011608)
 - [Answer by Code on the Rocks for Error when deploying 2nd gen Firebase Cloud Function](https://stackoverflow.com/questions/76829663/error-when-deploying-2nd-gen-firebase-cloud-function/77011561#77011561)
-- [Answer by Code on the Rocks for Multer with firebase functions](https://stackoverflow.com/questions/47589591/multer-with-firebase-functions/77011052#77011052)
-- [Answer by Code on the Rocks for Error: Functions codebase could not be analyzed successfully during deployment in Firebase](https://stackoverflow.com/questions/76666908/error-functions-codebase-could-not-be-analyzed-successfully-during-deployment-i/77010621#77010621)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
