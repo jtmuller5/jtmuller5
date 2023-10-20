@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk)
+- [Answer by Code on the Rocks for How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk/77331390#77331390)
 - [Answer by Code on the Rocks for How to search through a dataframe and print the results](https://stackoverflow.com/questions/77298516/how-to-search-through-a-dataframe-and-print-the-results/77298678#77298678)
 - [Answer by Code on the Rocks for How to fix Python at Object of type datetime is not JSON serializable error](https://stackoverflow.com/questions/61074324/how-to-fix-python-at-object-of-type-datetime-is-not-json-serializable-error/77276848#77276848)
 - [Answer by Code on the Rocks for How do I activate my virtual environment using PyCharm? Can I even activate it in PyCharm?](https://stackoverflow.com/questions/69697863/how-do-i-activate-my-virtual-environment-using-pycharm-can-i-even-activate-it-i/77237787#77237787)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for Expand a SingleChildScrollView inside a column to take up as much room as it needs but no more](https://stackoverflow.com/questions/77070399/expand-a-singlechildscrollview-inside-a-column-to-take-up-as-much-room-as-it-nee/77070408#77070408)
 - [Shorebird release ios-alpha fails](https://stackoverflow.com/questions/77054757/shorebird-release-ios-alpha-fails)
 - [Answer by Code on the Rocks for Shorebird release ios-alpha fails](https://stackoverflow.com/questions/77054757/shorebird-release-ios-alpha-fails/77054758#77054758)
-- [Answer by Code on the Rocks for Streambuilder is causing my widgets to rebuild twice inside tabs](https://stackoverflow.com/questions/77033956/streambuilder-is-causing-my-widgets-to-rebuild-twice-inside-tabs/77034015#77034015)
-- [Answer by Code on the Rocks for How to copy file and directory to clipboard in dart?](https://stackoverflow.com/questions/76106809/how-to-copy-file-and-directory-to-clipboard-in-dart/77020416#77020416)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
