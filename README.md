@@ -26,8 +26,8 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by Code on the Rocks for How can I create a new user via Firebase Auth without signing in?](https://stackoverflow.com/questions/52433899/how-can-i-create-a-new-user-via-firebase-auth-without-signing-in/77419918#77419918)
 - [Answer by Code on the Rocks for How to get &quot;COUNT&lpar;*&rpar;&quot; in Supabase](https://stackoverflow.com/questions/65612167/how-to-get-count-in-supabase/77356135#77356135)
-- [How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk)
 - [Answer by Code on the Rocks for How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk/77331390#77331390)
+- [How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk)
 - [Answer by Code on the Rocks for How to search through a dataframe and print the results](https://stackoverflow.com/questions/77298516/how-to-search-through-a-dataframe-and-print-the-results/77298678#77298678)
 - [Answer by Code on the Rocks for How to fix Python at Object of type datetime is not JSON serializable error](https://stackoverflow.com/questions/61074324/how-to-fix-python-at-object-of-type-datetime-is-not-json-serializable-error/77276848#77276848)
 - [Answer by Code on the Rocks for How do I activate my virtual environment using PyCharm? Can I even activate it in PyCharm?](https://stackoverflow.com/questions/69697863/how-do-i-activate-my-virtual-environment-using-pycharm-can-i-even-activate-it-i/77237787#77237787)
