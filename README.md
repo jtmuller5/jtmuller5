@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Python Web3 Ganache - Traceback error on BuildTransaction](https://stackoverflow.com/questions/70074514/python-web3-ganache-traceback-error-on-buildtransaction/77498168#77498168)
 - [Answer by Code on the Rocks for How can I create a new user via Firebase Auth without signing in?](https://stackoverflow.com/questions/52433899/how-can-i-create-a-new-user-via-firebase-auth-without-signing-in/77419918#77419918)
 - [Answer by Code on the Rocks for How to get &quot;COUNT&lpar;*&rpar;&quot; in Supabase](https://stackoverflow.com/questions/65612167/how-to-get-count-in-supabase/77356135#77356135)
 - [How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for How do I activate my virtual environment using PyCharm? Can I even activate it in PyCharm?](https://stackoverflow.com/questions/69697863/how-do-i-activate-my-virtual-environment-using-pycharm-can-i-even-activate-it-i/77237787#77237787)
 - [Answer by Code on the Rocks for flutter number keyboard doesn&#39;t have done button](https://stackoverflow.com/questions/52244180/flutter-number-keyboard-doesnt-have-done-button/77230947#77230947)
 - [Answer by Code on the Rocks for Allow accessibility screen reader to read a number string one-by-one as digits using semantics [flutter]](https://stackoverflow.com/questions/67501981/allow-accessibility-screen-reader-to-read-a-number-string-one-by-one-as-digits-u/77182267#77182267)
-- [Answer by Code on the Rocks for Expand a SingleChildScrollView inside a column to take up as much room as it needs but no more](https://stackoverflow.com/questions/77070399/expand-a-singlechildscrollview-inside-a-column-to-take-up-as-much-room-as-it-nee/77070408#77070408)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
