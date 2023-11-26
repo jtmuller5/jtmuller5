@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Error: missing revert data &lpar;action=&quot;estimateGas,](https://stackoverflow.com/questions/76795642/error-missing-revert-data-action-estimategas/77550555#77550555)
+- [Answer by Code on the Rocks for cannot access ethers.js providers when using import statement in typescript](https://stackoverflow.com/questions/75659064/cannot-access-ethers-js-providers-when-using-import-statement-in-typescript/77550524#77550524)
+- [Answer by Code on the Rocks for putting side menu and bottom navigation bar in same flutter app](https://stackoverflow.com/questions/77548939/putting-side-menu-and-bottom-navigation-bar-in-same-flutter-app/77549008#77549008)
 - [Answer by Code on the Rocks for How to use MediaQuery.of&lpar;context&rpar;.size without rebuilding?](https://stackoverflow.com/questions/77537733/how-to-use-mediaquery-ofcontext-size-without-rebuilding/77546118#77546118)
 - [Answer by Code on the Rocks for Android studio doesn&#39;t detect Android Emulator](https://stackoverflow.com/questions/68038272/android-studio-doesnt-detect-android-emulator/77545862#77545862)
 - [Answer by Code on the Rocks for Error: invalid address &lpar;argument=&quot;address&quot;, value=undefined, code=INVALID_ARGUMENT, version=address/5.1.0&rpar;](https://stackoverflow.com/questions/67414584/error-invalid-address-argument-address-value-undefined-code-invalid-argume/77526314#77526314)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for Python Web3 Ganache - Traceback error on BuildTransaction](https://stackoverflow.com/questions/70074514/python-web3-ganache-traceback-error-on-buildtransaction/77498168#77498168)
 - [Answer by Code on the Rocks for How can I create a new user via Firebase Auth without signing in?](https://stackoverflow.com/questions/52433899/how-can-i-create-a-new-user-via-firebase-auth-without-signing-in/77419918#77419918)
 - [Answer by Code on the Rocks for How to get &quot;COUNT&lpar;*&rpar;&quot; in Supabase](https://stackoverflow.com/questions/65612167/how-to-get-count-in-supabase/77356135#77356135)
-- [Answer by Code on the Rocks for How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk/77331390#77331390)
-- [How do you automatically set a UUID for a row in Supabase using the Flutter SDK?](https://stackoverflow.com/questions/77331389/how-do-you-automatically-set-a-uuid-for-a-row-in-supabase-using-the-flutter-sdk)
-- [Answer by Code on the Rocks for How to search through a dataframe and print the results](https://stackoverflow.com/questions/77298516/how-to-search-through-a-dataframe-and-print-the-results/77298678#77298678)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
