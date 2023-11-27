@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for the tx doesn&#39;t have the correct nonce. account has nonce of: 5 tx has nonce of: 15](https://stackoverflow.com/questions/45403644/the-tx-doesnt-have-the-correct-nonce-account-has-nonce-of-5-tx-has-nonce-of/77552793#77552793)
 - [Answer by Code on the Rocks for Error: missing revert data &lpar;action=&quot;estimateGas,](https://stackoverflow.com/questions/76795642/error-missing-revert-data-action-estimategas/77550555#77550555)
 - [Answer by Code on the Rocks for cannot access ethers.js providers when using import statement in typescript](https://stackoverflow.com/questions/75659064/cannot-access-ethers-js-providers-when-using-import-statement-in-typescript/77550524#77550524)
 - [Answer by Code on the Rocks for putting side menu and bottom navigation bar in same flutter app](https://stackoverflow.com/questions/77548939/putting-side-menu-and-bottom-navigation-bar-in-same-flutter-app/77549008#77549008)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Abstract Contracts In Solidity TypeError: No arguments passed to the base constructor. Specify the arguments or mark &quot;AssetAcquisition&quot; as abstract](https://stackoverflow.com/questions/76371529/abstract-contracts-in-solidity-typeerror-no-arguments-passed-to-the-base-constr/77520326#77520326)
 - [Answer by Code on the Rocks for Python Web3 Ganache - Traceback error on BuildTransaction](https://stackoverflow.com/questions/70074514/python-web3-ganache-traceback-error-on-buildtransaction/77498168#77498168)
 - [Answer by Code on the Rocks for How can I create a new user via Firebase Auth without signing in?](https://stackoverflow.com/questions/52433899/how-can-i-create-a-new-user-via-firebase-auth-without-signing-in/77419918#77419918)
-- [Answer by Code on the Rocks for How to get &quot;COUNT&lpar;*&rpar;&quot; in Supabase](https://stackoverflow.com/questions/65612167/how-to-get-count-in-supabase/77356135#77356135)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
