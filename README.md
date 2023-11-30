@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Install pgvector extension on mac](https://stackoverflow.com/questions/75664004/install-pgvector-extension-on-mac/77575685#77575685)
+- [Answer by Code on the Rocks for How to debug `create-react-app`s in visual studio code?](https://stackoverflow.com/questions/71412727/how-to-debug-create-react-apps-in-visual-studio-code/77572981#77572981)
+- [Answer by Code on the Rocks for VSCode auto import, components suggestion not working in React, VSCode version 1.57.0, MacOS](https://stackoverflow.com/questions/67964222/vscode-auto-import-components-suggestion-not-working-in-react-vscode-version-1/77572514#77572514)
 - [Answer by Code on the Rocks for How to move global reusable types to packages type in turborepo?](https://stackoverflow.com/questions/77478669/how-to-move-global-reusable-types-to-packages-type-in-turborepo/77568423#77568423)
 - [Answer by Code on the Rocks for npx tsc has no output\does nothing](https://stackoverflow.com/questions/71921836/npx-tsc-has-no-output-does-nothing/77568357#77568357)
 - [Answer by Code on the Rocks for Re-exporting a type when the &#39;--isolatedModules&#39; flag is provided requires using &#39;export type&#39;.ts](https://stackoverflow.com/questions/70416680/re-exporting-a-type-when-the-isolatedmodules-flag-is-provided-requires-using/77564973#77564973)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for Error: missing revert data &lpar;action=&quot;estimateGas,](https://stackoverflow.com/questions/76795642/error-missing-revert-data-action-estimategas/77550555#77550555)
 - [Answer by Code on the Rocks for cannot access ethers.js providers when using import statement in typescript](https://stackoverflow.com/questions/75659064/cannot-access-ethers-js-providers-when-using-import-statement-in-typescript/77550524#77550524)
 - [Answer by Code on the Rocks for putting side menu and bottom navigation bar in same flutter app](https://stackoverflow.com/questions/77548939/putting-side-menu-and-bottom-navigation-bar-in-same-flutter-app/77549008#77549008)
-- [Answer by Code on the Rocks for How to use MediaQuery.of&lpar;context&rpar;.size without rebuilding?](https://stackoverflow.com/questions/77537733/how-to-use-mediaquery-ofcontext-size-without-rebuilding/77546118#77546118)
-- [Answer by Code on the Rocks for Android studio doesn&#39;t detect Android Emulator](https://stackoverflow.com/questions/68038272/android-studio-doesnt-detect-android-emulator/77545862#77545862)
-- [Answer by Code on the Rocks for Error: invalid address &lpar;argument=&quot;address&quot;, value=undefined, code=INVALID_ARGUMENT, version=address/5.1.0&rpar;](https://stackoverflow.com/questions/67414584/error-invalid-address-argument-address-value-undefined-code-invalid-argume/77526314#77526314)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
