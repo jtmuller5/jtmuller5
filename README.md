@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to wrap JSX in parent div with shortcut in VS code](https://stackoverflow.com/questions/75426501/how-to-wrap-jsx-in-parent-div-with-shortcut-in-vs-code/77582844#77582844)
+- [Answer by Code on the Rocks for Turborepo React app fails to load Tailwind](https://stackoverflow.com/questions/76598113/turborepo-react-app-fails-to-load-tailwind/77581750#77581750)
+- [Answer by Code on the Rocks for Tailwind setup not working on vercel-tuborepo with react](https://stackoverflow.com/questions/77571209/tailwind-setup-not-working-on-vercel-tuborepo-with-react/77581569#77581569)
 - [Answer by Code on the Rocks for Install pgvector extension on mac](https://stackoverflow.com/questions/75664004/install-pgvector-extension-on-mac/77575685#77575685)
 - [Answer by Code on the Rocks for How to debug `create-react-app`s in visual studio code?](https://stackoverflow.com/questions/71412727/how-to-debug-create-react-apps-in-visual-studio-code/77572981#77572981)
 - [Answer by Code on the Rocks for VSCode auto import, components suggestion not working in React, VSCode version 1.57.0, MacOS](https://stackoverflow.com/questions/67964222/vscode-auto-import-components-suggestion-not-working-in-react-vscode-version-1/77572514#77572514)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for npx tsc has no output\does nothing](https://stackoverflow.com/questions/71921836/npx-tsc-has-no-output-does-nothing/77568357#77568357)
 - [Answer by Code on the Rocks for Re-exporting a type when the &#39;--isolatedModules&#39; flag is provided requires using &#39;export type&#39;.ts](https://stackoverflow.com/questions/70416680/re-exporting-a-type-when-the-isolatedmodules-flag-is-provided-requires-using/77564973#77564973)
 - [Answer by Code on the Rocks for the tx doesn&#39;t have the correct nonce. account has nonce of: 5 tx has nonce of: 15](https://stackoverflow.com/questions/45403644/the-tx-doesnt-have-the-correct-nonce-account-has-nonce-of-5-tx-has-nonce-of/77552793#77552793)
-- [Answer by Code on the Rocks for Error: missing revert data &lpar;action=&quot;estimateGas,](https://stackoverflow.com/questions/76795642/error-missing-revert-data-action-estimategas/77550555#77550555)
-- [Answer by Code on the Rocks for cannot access ethers.js providers when using import statement in typescript](https://stackoverflow.com/questions/75659064/cannot-access-ethers-js-providers-when-using-import-statement-in-typescript/77550524#77550524)
-- [Answer by Code on the Rocks for putting side menu and bottom navigation bar in same flutter app](https://stackoverflow.com/questions/77548939/putting-side-menu-and-bottom-navigation-bar-in-same-flutter-app/77549008#77549008)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
