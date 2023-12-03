@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for 404 error when calling api routes after deployment](https://stackoverflow.com/questions/67237890/404-error-when-calling-api-routes-after-deployment/77594788#77594788)
+- [Answer by Code on the Rocks for Deployment on Vercel File /vercel/path0/backendev/node_modules/transformers/node_modules/uglify-js/tools/exports.js does not exists?](https://stackoverflow.com/questions/69715520/deployment-on-vercel-file-vercel-path0-backendev-node-modules-transformers-node/77594662#77594662)
+- [Answer by Code on the Rocks for I am getting errors when deploying to Vercel. Can anyone help me with the my issues below?](https://stackoverflow.com/questions/70375283/i-am-getting-errors-when-deploying-to-vercel-can-anyone-help-me-with-the-my-iss/77594631#77594631)
 - [Answer by Code on the Rocks for How to wrap JSX in parent div with shortcut in VS code](https://stackoverflow.com/questions/75426501/how-to-wrap-jsx-in-parent-div-with-shortcut-in-vs-code/77582844#77582844)
 - [Answer by Code on the Rocks for Turborepo React app fails to load Tailwind](https://stackoverflow.com/questions/76598113/turborepo-react-app-fails-to-load-tailwind/77581750#77581750)
 - [Answer by Code on the Rocks for Tailwind setup not working on vercel-tuborepo with react](https://stackoverflow.com/questions/77571209/tailwind-setup-not-working-on-vercel-tuborepo-with-react/77581569#77581569)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for How to debug `create-react-app`s in visual studio code?](https://stackoverflow.com/questions/71412727/how-to-debug-create-react-apps-in-visual-studio-code/77572981#77572981)
 - [Answer by Code on the Rocks for VSCode auto import, components suggestion not working in React, VSCode version 1.57.0, MacOS](https://stackoverflow.com/questions/67964222/vscode-auto-import-components-suggestion-not-working-in-react-vscode-version-1/77572514#77572514)
 - [Answer by Code on the Rocks for How to move global reusable types to packages type in turborepo?](https://stackoverflow.com/questions/77478669/how-to-move-global-reusable-types-to-packages-type-in-turborepo/77568423#77568423)
-- [Answer by Code on the Rocks for npx tsc has no output\does nothing](https://stackoverflow.com/questions/71921836/npx-tsc-has-no-output-does-nothing/77568357#77568357)
-- [Answer by Code on the Rocks for Re-exporting a type when the &#39;--isolatedModules&#39; flag is provided requires using &#39;export type&#39;.ts](https://stackoverflow.com/questions/70416680/re-exporting-a-type-when-the-isolatedmodules-flag-is-provided-requires-using/77564973#77564973)
-- [Answer by Code on the Rocks for the tx doesn&#39;t have the correct nonce. account has nonce of: 5 tx has nonce of: 15](https://stackoverflow.com/questions/45403644/the-tx-doesnt-have-the-correct-nonce-account-has-nonce-of-5-tx-has-nonce-of/77552793#77552793)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
