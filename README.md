@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Custom date picker , not able to set value flutter](https://stackoverflow.com/questions/77640155/custom-date-picker-not-able-to-set-value-flutter/77640188#77640188)
+- [Answer by Code on the Rocks for Can we use same product ids for play store and app store configuration regarding in app purchase?](https://stackoverflow.com/questions/77639718/can-we-use-same-product-ids-for-play-store-and-app-store-configuration-regarding/77639984#77639984)
+- [Answer by Code on the Rocks for Animated page indicator on Flutter](https://stackoverflow.com/questions/77639916/animated-page-indicator-on-flutter/77639944#77639944)
 - [Answer by Code on the Rocks for sentry permission denied error in node js : source map Integration](https://stackoverflow.com/questions/76705053/sentry-permission-denied-error-in-node-js-source-map-integration/77622864#77622864)
 - [Answer by Code on the Rocks for 404 error when calling api routes after deployment](https://stackoverflow.com/questions/67237890/404-error-when-calling-api-routes-after-deployment/77594788#77594788)
 - [Answer by Code on the Rocks for Deployment on Vercel File /vercel/path0/backendev/node_modules/transformers/node_modules/uglify-js/tools/exports.js does not exists?](https://stackoverflow.com/questions/69715520/deployment-on-vercel-file-vercel-path0-backendev-node-modules-transformers-node/77594662#77594662)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for How to wrap JSX in parent div with shortcut in VS code](https://stackoverflow.com/questions/75426501/how-to-wrap-jsx-in-parent-div-with-shortcut-in-vs-code/77582844#77582844)
 - [Answer by Code on the Rocks for Turborepo React app fails to load Tailwind](https://stackoverflow.com/questions/76598113/turborepo-react-app-fails-to-load-tailwind/77581750#77581750)
 - [Answer by Code on the Rocks for Tailwind setup not working on vercel-tuborepo with react](https://stackoverflow.com/questions/77571209/tailwind-setup-not-working-on-vercel-tuborepo-with-react/77581569#77581569)
-- [Answer by Code on the Rocks for Install pgvector extension on mac](https://stackoverflow.com/questions/75664004/install-pgvector-extension-on-mac/77575685#77575685)
-- [Answer by Code on the Rocks for How to debug `create-react-app`s in visual studio code?](https://stackoverflow.com/questions/71412727/how-to-debug-create-react-apps-in-visual-studio-code/77572981#77572981)
-- [Answer by Code on the Rocks for VSCode auto import, components suggestion not working in React, VSCode version 1.57.0, MacOS](https://stackoverflow.com/questions/67964222/vscode-auto-import-components-suggestion-not-working-in-react-vscode-version-1/77572514#77572514)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
