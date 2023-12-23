@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Function Parameters written in VS Code goes to the next line](https://stackoverflow.com/questions/70092490/function-parameters-written-in-vs-code-goes-to-the-next-line/77705049#77705049)
 - [Answer by Code on the Rocks for Flutter fl_chart - How can we avoid the overlap of the ordinate?](https://stackoverflow.com/questions/73355777/flutter-fl-chart-how-can-we-avoid-the-overlap-of-the-ordinate/77695335#77695335)
 - [Answer by Code on the Rocks for Dart/Flutter async-await skips method and continues with the rest of the code](https://stackoverflow.com/questions/77654663/dart-flutter-async-await-skips-method-and-continues-with-the-rest-of-the-code/77654707#77654707)
 - [Answer by Code on the Rocks for Can&#39;t connect Firestore to a Flutter web app](https://stackoverflow.com/questions/77654377/cant-connect-firestore-to-a-flutter-web-app/77654673#77654673)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for sentry permission denied error in node js : source map Integration](https://stackoverflow.com/questions/76705053/sentry-permission-denied-error-in-node-js-source-map-integration/77622864#77622864)
 - [Answer by Code on the Rocks for 404 error when calling api routes after deployment](https://stackoverflow.com/questions/67237890/404-error-when-calling-api-routes-after-deployment/77594788#77594788)
 - [Answer by Code on the Rocks for Deployment on Vercel File /vercel/path0/backendev/node_modules/transformers/node_modules/uglify-js/tools/exports.js does not exists?](https://stackoverflow.com/questions/69715520/deployment-on-vercel-file-vercel-path0-backendev-node-modules-transformers-node/77594662#77594662)
-- [Answer by Code on the Rocks for I am getting errors when deploying to Vercel. Can anyone help me with the my issues below?](https://stackoverflow.com/questions/70375283/i-am-getting-errors-when-deploying-to-vercel-can-anyone-help-me-with-the-my-iss/77594631#77594631)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
