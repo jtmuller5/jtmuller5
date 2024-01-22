@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to make GridView Item alignment to centre?](https://stackoverflow.com/questions/77860654/how-to-make-gridview-item-alignment-to-centre/77860685#77860685)
 - [Answer by Code on the Rocks for VS Code autosuggest](https://stackoverflow.com/questions/71148594/vs-code-autosuggest/77743404#77743404)
 - [Answer by Code on the Rocks for add more debug devices in flutter](https://stackoverflow.com/questions/67298054/add-more-debug-devices-in-flutter/77743178#77743178)
 - [Answer by Code on the Rocks for Function Parameters written in VS Code goes to the next line](https://stackoverflow.com/questions/70092490/function-parameters-written-in-vs-code-goes-to-the-next-line/77705049#77705049)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Custom date picker , not able to set value flutter](https://stackoverflow.com/questions/77640155/custom-date-picker-not-able-to-set-value-flutter/77640188#77640188)
 - [Answer by Code on the Rocks for Animated page indicator on Flutter](https://stackoverflow.com/questions/77639916/animated-page-indicator-on-flutter/77639944#77639944)
 - [Answer by Code on the Rocks for sentry permission denied error in node js : source map Integration](https://stackoverflow.com/questions/76705053/sentry-permission-denied-error-in-node-js-source-map-integration/77622864#77622864)
-- [Answer by Code on the Rocks for 404 error when calling api routes after deployment](https://stackoverflow.com/questions/67237890/404-error-when-calling-api-routes-after-deployment/77594788#77594788)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
