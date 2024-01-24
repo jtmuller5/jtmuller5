@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [PocketBase &quot;must not be in list&quot; error when creating new collection](https://stackoverflow.com/questions/77868572/pocketbase-must-not-be-in-list-error-when-creating-new-collection)
+- [Answer by Code on the Rocks for PocketBase &quot;must not be in list&quot; error when creating new collection](https://stackoverflow.com/questions/77868572/pocketbase-must-not-be-in-list-error-when-creating-new-collection/77868573#77868573)
 - [Answer by Code on the Rocks for How to make GridView Item alignment to centre?](https://stackoverflow.com/questions/77860654/how-to-make-gridview-item-alignment-to-centre/77860685#77860685)
 - [Answer by Code on the Rocks for VS Code autosuggest](https://stackoverflow.com/questions/71148594/vs-code-autosuggest/77743404#77743404)
 - [Answer by Code on the Rocks for add more debug devices in flutter](https://stackoverflow.com/questions/67298054/add-more-debug-devices-in-flutter/77743178#77743178)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for Dart/Flutter async-await skips method and continues with the rest of the code](https://stackoverflow.com/questions/77654663/dart-flutter-async-await-skips-method-and-continues-with-the-rest-of-the-code/77654707#77654707)
 - [Answer by Code on the Rocks for Can&#39;t connect Firestore to a Flutter web app](https://stackoverflow.com/questions/77654377/cant-connect-firestore-to-a-flutter-web-app/77654673#77654673)
 - [Answer by Code on the Rocks for Custom date picker , not able to set value flutter](https://stackoverflow.com/questions/77640155/custom-date-picker-not-able-to-set-value-flutter/77640188#77640188)
-- [Answer by Code on the Rocks for Animated page indicator on Flutter](https://stackoverflow.com/questions/77639916/animated-page-indicator-on-flutter/77639944#77639944)
-- [Answer by Code on the Rocks for sentry permission denied error in node js : source map Integration](https://stackoverflow.com/questions/76705053/sentry-permission-denied-error-in-node-js-source-map-integration/77622864#77622864)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
