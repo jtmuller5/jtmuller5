@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Astro - react useEffect hook is not working](https://stackoverflow.com/questions/74578397/astro-react-useeffect-hook-is-not-working/77936048#77936048)
 - [Answer by Code on the Rocks for Android: Google play services not working on the emulator](https://stackoverflow.com/questions/29429727/android-google-play-services-not-working-on-the-emulator/77932534#77932534)
 - [Answer by Code on the Rocks for How use Create React App with custom template?](https://stackoverflow.com/questions/75288411/how-use-create-react-app-with-custom-template/77930370#77930370)
 - [Answer by Code on the Rocks for Debugging JavaScript in VS Code Console](https://stackoverflow.com/questions/61003292/debugging-javascript-in-vs-code-console/77917376#77917376)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for How to make GridView Item alignment to centre?](https://stackoverflow.com/questions/77860654/how-to-make-gridview-item-alignment-to-centre/77860685#77860685)
 - [Answer by Code on the Rocks for VS Code autosuggest](https://stackoverflow.com/questions/71148594/vs-code-autosuggest/77743404#77743404)
 - [Answer by Code on the Rocks for add more debug devices in flutter](https://stackoverflow.com/questions/67298054/add-more-debug-devices-in-flutter/77743178#77743178)
-- [Answer by Code on the Rocks for Function Parameters written in VS Code goes to the next line](https://stackoverflow.com/questions/70092490/function-parameters-written-in-vs-code-goes-to-the-next-line/77705049#77705049)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
