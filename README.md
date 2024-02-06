@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How can I make auto-complete display a list in Xcode](https://stackoverflow.com/questions/954320/how-can-i-make-auto-complete-display-a-list-in-xcode/77944516#77944516)
 - [Answer by Code on the Rocks for Astro - react useEffect hook is not working](https://stackoverflow.com/questions/74578397/astro-react-useeffect-hook-is-not-working/77936048#77936048)
 - [Answer by Code on the Rocks for Android: Google play services not working on the emulator](https://stackoverflow.com/questions/29429727/android-google-play-services-not-working-on-the-emulator/77932534#77932534)
 - [Answer by Code on the Rocks for How use Create React App with custom template?](https://stackoverflow.com/questions/75288411/how-use-create-react-app-with-custom-template/77930370#77930370)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for PocketBase &quot;must not be in list&quot; error when creating new collection](https://stackoverflow.com/questions/77868572/pocketbase-must-not-be-in-list-error-when-creating-new-collection/77868573#77868573)
 - [Answer by Code on the Rocks for How to make GridView Item alignment to centre?](https://stackoverflow.com/questions/77860654/how-to-make-gridview-item-alignment-to-centre/77860685#77860685)
 - [Answer by Code on the Rocks for VS Code autosuggest](https://stackoverflow.com/questions/71148594/vs-code-autosuggest/77743404#77743404)
-- [Answer by Code on the Rocks for add more debug devices in flutter](https://stackoverflow.com/questions/67298054/add-more-debug-devices-in-flutter/77743178#77743178)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
