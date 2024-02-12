@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Why is .generateBox method not working in RealityKit?](https://stackoverflow.com/questions/77978730/why-is-generatebox-method-not-working-in-realitykit)
+- [Answer by Code on the Rocks for Cannot preview in this file - active scheme does not build this file : SwiftUI on Xcode 11 in CatalinaOS](https://stackoverflow.com/questions/58416469/cannot-preview-in-this-file-active-scheme-does-not-build-this-file-swiftui-o/77978583#77978583)
+- [Answer by Code on the Rocks for Cannot preview in file, Active scheme does not build this file](https://stackoverflow.com/questions/76800239/cannot-preview-in-file-active-scheme-does-not-build-this-file/77978547#77978547)
 - [Answer by Code on the Rocks for Xcode Preview Resume Button Shortcut](https://stackoverflow.com/questions/56942306/xcode-preview-resume-button-shortcut/77977191#77977191)
 - [Answer by Code on the Rocks for Vision Pro window that follows me](https://stackoverflow.com/questions/77958749/vision-pro-window-that-follows-me/77977042#77977042)
 - [Answer by Code on the Rocks for In visionOS, how does one change the Window glass color?](https://stackoverflow.com/questions/77959196/in-visionos-how-does-one-change-the-window-glass-color/77976016#77976016)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for Astro - react useEffect hook is not working](https://stackoverflow.com/questions/74578397/astro-react-useeffect-hook-is-not-working/77936048#77936048)
 - [Answer by Code on the Rocks for Android: Google play services not working on the emulator](https://stackoverflow.com/questions/29429727/android-google-play-services-not-working-on-the-emulator/77932534#77932534)
 - [Answer by Code on the Rocks for How use Create React App with custom template?](https://stackoverflow.com/questions/75288411/how-use-create-react-app-with-custom-template/77930370#77930370)
-- [Answer by Code on the Rocks for Debugging JavaScript in VS Code Console](https://stackoverflow.com/questions/61003292/debugging-javascript-in-vs-code-console/77917376#77917376)
-- [Expected a value of type &#39;JavaScriptObject&#39;, but got one of type &#39;Null&#39; [duplicate]](https://stackoverflow.com/questions/77916639/expected-a-value-of-type-javascriptobject-but-got-one-of-type-null)
-- [PocketBase &quot;must not be in list&quot; error when creating new collection](https://stackoverflow.com/questions/77868572/pocketbase-must-not-be-in-list-error-when-creating-new-collection)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
