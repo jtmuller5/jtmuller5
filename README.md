@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Xcode keyboard shortcut for Find Anything](https://stackoverflow.com/questions/61704953/xcode-keyboard-shortcut-for-find-anything/77989699#77989699)
 - [Answer by Code on the Rocks for How to add Social Framework in Xcode project?](https://stackoverflow.com/questions/16628532/how-to-add-social-framework-in-xcode-project/77984057#77984057)
 - [Why is .generateBox method not working in RealityKit?](https://stackoverflow.com/questions/77978730/why-is-generatebox-method-not-working-in-realitykit)
 - [Answer by Code on the Rocks for Cannot preview in this file - active scheme does not build this file : SwiftUI on Xcode 11 in CatalinaOS](https://stackoverflow.com/questions/58416469/cannot-preview-in-this-file-active-scheme-does-not-build-this-file-swiftui-o/77978583#77978583)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for In visionOS, how does one change the Window glass color?](https://stackoverflow.com/questions/77959196/in-visionos-how-does-one-change-the-window-glass-color/77976016#77976016)
 - [Answer by Code on the Rocks for How can I make auto-complete display a list in Xcode](https://stackoverflow.com/questions/954320/how-can-i-make-auto-complete-display-a-list-in-xcode/77944516#77944516)
 - [Answer by Code on the Rocks for Astro - react useEffect hook is not working](https://stackoverflow.com/questions/74578397/astro-react-useeffect-hook-is-not-working/77936048#77936048)
-- [Answer by Code on the Rocks for Android: Google play services not working on the emulator](https://stackoverflow.com/questions/29429727/android-google-play-services-not-working-on-the-emulator/77932534#77932534)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
