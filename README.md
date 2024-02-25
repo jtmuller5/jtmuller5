@@ -38,7 +38,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/CodeOnTheRocks_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtmuller5" height="30" width="40" /></a>
+<a href="https://twitter.com/codd_ontherocks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtmuller5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joseph-muller-iii-59671a10a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-muller-iii-59671a10a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12806961" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4637638" height="30" width="40" /></a>
 <a href="https://medium.com/@jtmuller5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jtmuller5" height="30" width="40" /></a>
