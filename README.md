@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Code on the Rocks for Xcode keyboard shortcut for Find Anything](https://stackoverflow.com/questions/61704953/xcode-keyboard-shortcut-for-find-anything/77989699#77989699)
-- [Answer by Code on the Rocks for How to add Social Framework in Xcode project?](https://stackoverflow.com/questions/16628532/how-to-add-social-framework-in-xcode-project/77984057#77984057)
-- [Why is .generateBox method not working in RealityKit?](https://stackoverflow.com/questions/77978730/why-is-generatebox-method-not-working-in-realitykit)
-- [Answer by Code on the Rocks for Cannot preview in this file - active scheme does not build this file : SwiftUI on Xcode 11 in CatalinaOS](https://stackoverflow.com/questions/58416469/cannot-preview-in-this-file-active-scheme-does-not-build-this-file-swiftui-o/77978583#77978583)
-- [Answer by Code on the Rocks for Cannot preview in file, Active scheme does not build this file](https://stackoverflow.com/questions/76800239/cannot-preview-in-file-active-scheme-does-not-build-this-file/77978547#77978547)
-- [Answer by Code on the Rocks for Xcode Preview Resume Button Shortcut](https://stackoverflow.com/questions/56942306/xcode-preview-resume-button-shortcut/77977191#77977191)
-- [Answer by Code on the Rocks for Vision Pro window that follows me](https://stackoverflow.com/questions/77958749/vision-pro-window-that-follows-me/77977042#77977042)
-- [Answer by Code on the Rocks for In visionOS, how does one change the Window glass color?](https://stackoverflow.com/questions/77959196/in-visionos-how-does-one-change-the-window-glass-color/77976016#77976016)
-- [Answer by Code on the Rocks for How can I make auto-complete display a list in Xcode](https://stackoverflow.com/questions/954320/how-can-i-make-auto-complete-display-a-list-in-xcode/77944516#77944516)
-- [Answer by Code on the Rocks for Astro - react useEffect hook is not working](https://stackoverflow.com/questions/74578397/astro-react-useeffect-hook-is-not-working/77936048#77936048)
+- [Answer by Code on the Rocks for How to add custom style to React Datepicker &lpar;HackerOne&rpar;?](https://stackoverflow.com/questions/72587144/how-to-add-custom-style-to-react-datepicker-hackerone/78084418#78084418)
+- [What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos)
+- [Answer by Code on the Rocks for What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos/78078596#78078596)
+- [Answer by Code on the Rocks for SwiftUI HStack vetrical Alignment doesn&#39;t work?](https://stackoverflow.com/questions/59008011/swiftui-hstack-vetrical-alignment-doesnt-work/78074726#78074726)
+- [Answer by Code on the Rocks for Is there a bug in visionOS TabBar Preview?](https://stackoverflow.com/questions/76548270/is-there-a-bug-in-visionos-tabbar-preview/78071690#78071690)
+- [Unable to present an Immersive Space for id: Error Domain=FBSWorkspaceErrorDomain Code=1 &quot;scene invalidated before create completion&quot;](https://stackoverflow.com/questions/78064275/unable-to-present-an-immersive-space-for-id-error-domain-fbsworkspaceerrordomai)
+- [Answer by Code on the Rocks for How to make RealityKit to show only CollisionComponents?](https://stackoverflow.com/questions/61371899/how-to-make-realitykit-to-show-only-collisioncomponents/78058412#78058412)
+- [Answer by Code on the Rocks for Your app was given a scene with session role UISceneSessionRole&lpar;_rawValue: UIWindowSceneSessionRoleVolumetricApplication&rpar; error](https://stackoverflow.com/questions/78058237/your-app-was-given-a-scene-with-session-role-uiscenesessionrole-rawvalue-uiwin/78058238#78058238)
+- [Your app was given a scene with session role UISceneSessionRole&lpar;_rawValue: UIWindowSceneSessionRoleVolumetricApplication&rpar; error](https://stackoverflow.com/questions/78058237/your-app-was-given-a-scene-with-session-role-uiscenesessionrole-rawvalue-uiwin)
+- [Answer by Code on the Rocks for How to create multiple windows in a SwiftUI app for visionOS?](https://stackoverflow.com/questions/76797883/how-to-create-multiple-windows-in-a-swiftui-app-for-visionos/78058113#78058113)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
