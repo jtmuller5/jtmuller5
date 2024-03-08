@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for In Tailwind, how do I fill the remaining space of the parent without overflowing?](https://stackoverflow.com/questions/76614506/in-tailwind-how-do-i-fill-the-remaining-space-of-the-parent-without-overflowing/78125292#78125292)
+- [Answer by Code on the Rocks for How to Change Background Color of Bootstrap Navbar](https://stackoverflow.com/questions/68187216/how-to-change-background-color-of-bootstrap-navbar/78125163#78125163)
 - [Answer by Code on the Rocks for How to add custom style to React Datepicker &lpar;HackerOne&rpar;?](https://stackoverflow.com/questions/72587144/how-to-add-custom-style-to-react-datepicker-hackerone/78084418#78084418)
 - [What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos)
 - [Answer by Code on the Rocks for What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos/78078596#78078596)
@@ -32,8 +34,6 @@
 - [Unable to present an Immersive Space for id: Error Domain=FBSWorkspaceErrorDomain Code=1 &quot;scene invalidated before create completion&quot;](https://stackoverflow.com/questions/78064275/unable-to-present-an-immersive-space-for-id-error-domain-fbsworkspaceerrordomai)
 - [Answer by Code on the Rocks for How to make RealityKit to show only CollisionComponents?](https://stackoverflow.com/questions/61371899/how-to-make-realitykit-to-show-only-collisioncomponents/78058412#78058412)
 - [Answer by Code on the Rocks for Your app was given a scene with session role UISceneSessionRole&lpar;_rawValue: UIWindowSceneSessionRoleVolumetricApplication&rpar; error](https://stackoverflow.com/questions/78058237/your-app-was-given-a-scene-with-session-role-uiscenesessionrole-rawvalue-uiwin/78058238#78058238)
-- [Your app was given a scene with session role UISceneSessionRole&lpar;_rawValue: UIWindowSceneSessionRoleVolumetricApplication&rpar; error](https://stackoverflow.com/questions/78058237/your-app-was-given-a-scene-with-session-role-uiscenesessionrole-rawvalue-uiwin)
-- [Answer by Code on the Rocks for How to create multiple windows in a SwiftUI app for visionOS?](https://stackoverflow.com/questions/76797883/how-to-create-multiple-windows-in-a-swiftui-app-for-visionos/78058113#78058113)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
