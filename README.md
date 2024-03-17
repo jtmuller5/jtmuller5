@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Haskell: Check if integer, or check type of variable](https://stackoverflow.com/questions/4131552/haskell-check-if-integer-or-check-type-of-variable/78172389#78172389)
 - [Answer by Code on the Rocks for Why does TypeScript not want me to assign a className property to a context provider?](https://stackoverflow.com/questions/68964727/why-does-typescript-not-want-me-to-assign-a-classname-property-to-a-context-prov/78162141#78162141)
 - [Answer by Code on the Rocks for How to detect Apple User Agents in a Flutter web app?](https://stackoverflow.com/questions/73081939/how-to-detect-apple-user-agents-in-a-flutter-web-app/78148532#78148532)
 - [Answer by Code on the Rocks for Add image in Readme.md for VS-code extension](https://stackoverflow.com/questions/74938436/add-image-in-readme-md-for-vs-code-extension/78140748#78140748)
@@ -33,7 +34,6 @@
 - [What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos)
 - [Answer by Code on the Rocks for What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos/78078596#78078596)
 - [Answer by Code on the Rocks for SwiftUI HStack vetrical Alignment doesn&#39;t work?](https://stackoverflow.com/questions/59008011/swiftui-hstack-vetrical-alignment-doesnt-work/78074726#78074726)
-- [Answer by Code on the Rocks for Is there a bug in visionOS TabBar Preview?](https://stackoverflow.com/questions/76548270/is-there-a-bug-in-visionos-tabbar-preview/78071690#78071690)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
