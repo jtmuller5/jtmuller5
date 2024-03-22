@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Can you turn off reCAPTCHA step in Firebase phone verification on Flutter Web?](https://stackoverflow.com/questions/78202393/can-you-turn-off-recaptcha-step-in-firebase-phone-verification-on-flutter-web)
 - [Answer by Code on the Rocks for Better Way to Define an Enum in Haskell](https://stackoverflow.com/questions/6000511/better-way-to-define-an-enum-in-haskell/78193428#78193428)
 - [Answer by Code on the Rocks for Python : TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39;](https://stackoverflow.com/questions/12570937/python-typeerror-cant-multiply-sequence-by-non-int-of-type-float/78183265#78183265)
 - [Answer by Code on the Rocks for Haskell: Check if integer, or check type of variable](https://stackoverflow.com/questions/4131552/haskell-check-if-integer-or-check-type-of-variable/78172389#78172389)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for In Tailwind, how do I fill the remaining space of the parent without overflowing?](https://stackoverflow.com/questions/76614506/in-tailwind-how-do-i-fill-the-remaining-space-of-the-parent-without-overflowing/78125292#78125292)
 - [Answer by Code on the Rocks for How to Change Background Color of Bootstrap Navbar](https://stackoverflow.com/questions/68187216/how-to-change-background-color-of-bootstrap-navbar/78125163#78125163)
 - [Answer by Code on the Rocks for How to add custom style to React Datepicker &lpar;HackerOne&rpar;?](https://stackoverflow.com/questions/72587144/how-to-add-custom-style-to-react-datepicker-hackerone/78084418#78084418)
-- [What units are used in VisionOS?](https://stackoverflow.com/questions/78078595/what-units-are-used-in-visionos)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
