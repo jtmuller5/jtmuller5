@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yes Dev for Astro markdown not rendered in live preview and finished build](https://stackoverflow.com/questions/75440629/astro-markdown-not-rendered-in-live-preview-and-finished-build/78478104#78478104)
 - [Answer by Yes Dev for Invalid constant value when passing custom object as a screen parameter in flutter](https://stackoverflow.com/questions/78232863/invalid-constant-value-when-passing-custom-object-as-a-screen-parameter-in-flutt/78232921#78232921)
 - [Can you turn off reCAPTCHA step in Firebase phone verification on Flutter Web?](https://stackoverflow.com/questions/78202393/can-you-turn-off-recaptcha-step-in-firebase-phone-verification-on-flutter-web)
 - [Answer by Yes Dev for Python : TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39;](https://stackoverflow.com/questions/12570937/python-typeerror-cant-multiply-sequence-by-non-int-of-type-float/78183265#78183265)
@@ -33,7 +34,6 @@
 - [Answer by Yes Dev for Add image in Readme.md for VS-code extension](https://stackoverflow.com/questions/74938436/add-image-in-readme-md-for-vs-code-extension/78140748#78140748)
 - [Answer by Yes Dev for In Tailwind, how do I fill the remaining space of the parent without overflowing?](https://stackoverflow.com/questions/76614506/in-tailwind-how-do-i-fill-the-remaining-space-of-the-parent-without-overflowing/78125292#78125292)
 - [Answer by Yes Dev for How to Change Background Color of Bootstrap Navbar](https://stackoverflow.com/questions/68187216/how-to-change-background-color-of-bootstrap-navbar/78125163#78125163)
-- [Answer by Yes Dev for How to add custom style to React Datepicker &lpar;HackerOne&rpar;?](https://stackoverflow.com/questions/72587144/how-to-add-custom-style-to-react-datepicker-hackerone/78084418#78084418)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
