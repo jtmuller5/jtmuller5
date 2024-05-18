@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [API key not valid in Genkit Cloud Function](https://stackoverflow.com/questions/78496116/api-key-not-valid-in-genkit-cloud-function)
+- [FAILED_PRECONDITION: Generation resulted in no candidates matching provided output schema](https://stackoverflow.com/questions/78499756/failed-precondition-generation-resulted-in-no-candidates-matching-provided-outp)
+- [How do I specify a date property using Zod in Firebase Genkit?](https://stackoverflow.com/questions/78496888/how-do-i-specify-a-date-property-using-zod-in-firebase-genkit)
 - [Answer by Yes Dev for API key not valid in Genkit Cloud Function](https://stackoverflow.com/questions/78496116/api-key-not-valid-in-genkit-cloud-function/78496117#78496117)
+- [API key not valid in Genkit Cloud Function](https://stackoverflow.com/questions/78496116/api-key-not-valid-in-genkit-cloud-function)
 - [Answer by Yes Dev for firebase init genkit unsupported](https://stackoverflow.com/questions/78487350/firebase-init-genkit-unsupported/78487409#78487409)
 - [firebase init genkit unsupported](https://stackoverflow.com/questions/78487350/firebase-init-genkit-unsupported)
 - [Answer by Yes Dev for Issues running npx genkit start](https://stackoverflow.com/questions/78487267/issues-running-npx-genkit-start/78487281#78487281)
 - [Issues running npx genkit start](https://stackoverflow.com/questions/78487267/issues-running-npx-genkit-start)
 - [Answer by Yes Dev for Astro markdown not rendered in live preview and finished build](https://stackoverflow.com/questions/75440629/astro-markdown-not-rendered-in-live-preview-and-finished-build/78478104#78478104)
 - [Answer by Yes Dev for Invalid constant value when passing custom object as a screen parameter in flutter](https://stackoverflow.com/questions/78232863/invalid-constant-value-when-passing-custom-object-as-a-screen-parameter-in-flutt/78232921#78232921)
-- [Can you turn off reCAPTCHA step in Firebase phone verification on Flutter Web?](https://stackoverflow.com/questions/78202393/can-you-turn-off-recaptcha-step-in-firebase-phone-verification-on-flutter-web)
-- [Answer by Yes Dev for Python : TypeError: can&#39;t multiply sequence by non-int of type &#39;float&#39;](https://stackoverflow.com/questions/12570937/python-typeerror-cant-multiply-sequence-by-non-int-of-type-float/78183265#78183265)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
