@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yes Dev for Flutter draw SVG in CustomPaint &lpar;Canvas&rpar;](https://stackoverflow.com/questions/57874374/flutter-draw-svg-in-custompaint-canvas/78509010#78509010)
 - [Answer by Yes Dev for Could not create task &#39;:app:processDevDebugMainManifest&#39;](https://stackoverflow.com/questions/76376539/could-not-create-task-appprocessdevdebugmainmanifest/78501344#78501344)
 - [Answer by Yes Dev for ERROR ITMS-90592 &quot;Invalid Export Compliance Code&quot; when uploading to App Store](https://stackoverflow.com/questions/53326492/error-itms-90592-invalid-export-compliance-code-when-uploading-to-app-store/78501188#78501188)
 - [Answer by Yes Dev for Handle setState from a function](https://stackoverflow.com/questions/78500438/handle-setstate-from-a-function/78501153#78501153)
@@ -33,7 +34,6 @@
 - [API key not valid in Genkit Cloud Function](https://stackoverflow.com/questions/78496116/api-key-not-valid-in-genkit-cloud-function)
 - [Answer by Yes Dev for firebase init genkit unsupported](https://stackoverflow.com/questions/78487350/firebase-init-genkit-unsupported/78487409#78487409)
 - [firebase init genkit unsupported](https://stackoverflow.com/questions/78487350/firebase-init-genkit-unsupported)
-- [Answer by Yes Dev for Issues running npx genkit start](https://stackoverflow.com/questions/78487267/issues-running-npx-genkit-start/78487281#78487281)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
