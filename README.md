@@ -33,7 +33,7 @@
 - [Answer by Code on the Rocks for Trying to scroll into view a nested scrollbar element&#39;s child](https://stackoverflow.com/questions/73379182/trying-to-scroll-into-view-a-nested-scrollbar-elements-child/78551706#78551706)
 - [Answer by Code on the Rocks for React js react-google-maps-api change color marker default](https://stackoverflow.com/questions/59767062/react-js-react-google-maps-api-change-color-marker-default/78551252#78551252)
 - [Answer by Code on the Rocks for flutter one signal not displaying notifications](https://stackoverflow.com/questions/71190509/flutter-one-signal-not-displaying-notifications/78550064#78550064)
-- [Answer by Code on the Rocks for I have implemented search in my app , but i only get 10 product when I do searching from firebase](https://stackoverflow.com/questions/78525166/i-have-implemented-search-in-my-app-but-i-only-get-10-product-when-i-do-search/78525375#78525375)
+- [Answer by Code on the Rocks for Flutter: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.9.0, expected version is 1.7.1](https://stackoverflow.com/questions/78522915/flutter-module-was-compiled-with-an-incompatible-version-of-kotlin-the-binary/78523039#78523039)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
