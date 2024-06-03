@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Firebase: 403 PERMISSION_DENIED &lpar;FirebaseError: Installations&rpar;: Requests are blocked, after updating SDKs &lpar;FirebaseInstallationsService&rpar;](https://stackoverflow.com/questions/58495985/firebase-403-permission-denied-firebaseerror-installations-requests-are-blo/78570934#78570934)
+- [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
 - [Answer by Code on the Rocks for How to focus and allow writing on a TextField without showing the keyboard in Flutter?](https://stackoverflow.com/questions/78556992/how-to-focus-and-allow-writing-on-a-textfield-without-showing-the-keyboard-in-fl/78557009#78557009)
 - [Answer by Code on the Rocks for Keyboard not appearing after swipe-back gesture when returning to a screen with TextField using GetX](https://stackoverflow.com/questions/78556704/keyboard-not-appearing-after-swipe-back-gesture-when-returning-to-a-screen-with/78556777#78556777)
 - [Answer by Code on the Rocks for Flutter Camera Plugin: Unable to Open Front-Facing Camera](https://stackoverflow.com/questions/78556582/flutter-camera-plugin-unable-to-open-front-facing-camera/78556759#78556759)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for How to modify/remove markers from React Google Maps package?](https://stackoverflow.com/questions/78525060/how-to-modify-remove-markers-from-react-google-maps-package/78551860#78551860)
 - [Answer by Code on the Rocks for Trying to scroll into view a nested scrollbar element&#39;s child](https://stackoverflow.com/questions/73379182/trying-to-scroll-into-view-a-nested-scrollbar-elements-child/78551706#78551706)
 - [Answer by Code on the Rocks for React js react-google-maps-api change color marker default](https://stackoverflow.com/questions/59767062/react-js-react-google-maps-api-change-color-marker-default/78551252#78551252)
-- [Answer by Code on the Rocks for flutter one signal not displaying notifications](https://stackoverflow.com/questions/71190509/flutter-one-signal-not-displaying-notifications/78550064#78550064)
-- [Answer by Code on the Rocks for Flutter: Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.9.0, expected version is 1.7.1](https://stackoverflow.com/questions/78522915/flutter-module-was-compiled-with-an-incompatible-version-of-kotlin-the-binary/78523039#78523039)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
