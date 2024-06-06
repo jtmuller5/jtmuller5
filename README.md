@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [GET flutter_bootstrap.js net::ERR_ABORTED 404 &lpar;Not Found&rpar;](https://stackoverflow.com/questions/78586612/get-flutter-bootstrap-js-neterr-aborted-404-not-found)
 - [Answer by Code on the Rocks for Firebase: 403 PERMISSION_DENIED &lpar;FirebaseError: Installations&rpar;: Requests are blocked, after updating SDKs &lpar;FirebaseInstallationsService&rpar;](https://stackoverflow.com/questions/58495985/firebase-403-permission-denied-firebaseerror-installations-requests-are-blo/78570934#78570934)
 - [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
 - [Answer by Code on the Rocks for How to focus and allow writing on a TextField without showing the keyboard in Flutter?](https://stackoverflow.com/questions/78556992/how-to-focus-and-allow-writing-on-a-textfield-without-showing-the-keyboard-in-fl/78557009#78557009)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for How run flutter app in Android emulator as default in VS code](https://stackoverflow.com/questions/78554879/how-run-flutter-app-in-android-emulator-as-default-in-vs-code/78554900#78554900)
 - [Answer by Code on the Rocks for How to modify/remove markers from React Google Maps package?](https://stackoverflow.com/questions/78525060/how-to-modify-remove-markers-from-react-google-maps-package/78551860#78551860)
 - [Answer by Code on the Rocks for Trying to scroll into view a nested scrollbar element&#39;s child](https://stackoverflow.com/questions/73379182/trying-to-scroll-into-view-a-nested-scrollbar-elements-child/78551706#78551706)
-- [Answer by Code on the Rocks for React js react-google-maps-api change color marker default](https://stackoverflow.com/questions/59767062/react-js-react-google-maps-api-change-color-marker-default/78551252#78551252)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
