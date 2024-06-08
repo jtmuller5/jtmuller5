@@ -24,6 +24,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to use client and server components in nextJS if params and query are needed?](https://stackoverflow.com/questions/78595320/how-to-use-client-and-server-components-in-nextjs-if-params-and-query-are-needed/78595589#78595589)
+- [Answer by Code on the Rocks for Route does not match required types of NextJS route, authOptions | NextJS Route Type Error](https://stackoverflow.com/questions/78407624/route-does-not-match-required-types-of-nextjs-route-authoptions-nextjs-route/78595532#78595532)
+- [Answer by Code on the Rocks for How do i make the data in the input feild of my form in next js stay after refresh of the page?](https://stackoverflow.com/questions/71155015/how-do-i-make-the-data-in-the-input-feild-of-my-form-in-next-js-stay-after-refre/78593428#78593428)
 - [GET flutter_bootstrap.js net::ERR_ABORTED 404 &lpar;Not Found&rpar;](https://stackoverflow.com/questions/78586612/get-flutter-bootstrap-js-neterr-aborted-404-not-found)
 - [Answer by Code on the Rocks for Firebase: 403 PERMISSION_DENIED &lpar;FirebaseError: Installations&rpar;: Requests are blocked, after updating SDKs &lpar;FirebaseInstallationsService&rpar;](https://stackoverflow.com/questions/58495985/firebase-403-permission-denied-firebaseerror-installations-requests-are-blo/78570934#78570934)
 - [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
@@ -31,9 +34,6 @@
 - [Answer by Code on the Rocks for Keyboard not appearing after swipe-back gesture when returning to a screen with TextField using GetX](https://stackoverflow.com/questions/78556704/keyboard-not-appearing-after-swipe-back-gesture-when-returning-to-a-screen-with/78556777#78556777)
 - [Answer by Code on the Rocks for Flutter Camera Plugin: Unable to Open Front-Facing Camera](https://stackoverflow.com/questions/78556582/flutter-camera-plugin-unable-to-open-front-facing-camera/78556759#78556759)
 - [Answer by Code on the Rocks for Flutter/Dart: Display One product per Widget, with data retrieved as JSoN From backend API](https://stackoverflow.com/questions/78554829/flutter-dart-display-one-product-per-widget-with-data-retrieved-as-json-from-b/78554920#78554920)
-- [Answer by Code on the Rocks for How run flutter app in Android emulator as default in VS code](https://stackoverflow.com/questions/78554879/how-run-flutter-app-in-android-emulator-as-default-in-vs-code/78554900#78554900)
-- [Answer by Code on the Rocks for How to modify/remove markers from React Google Maps package?](https://stackoverflow.com/questions/78525060/how-to-modify-remove-markers-from-react-google-maps-package/78551860#78551860)
-- [Answer by Code on the Rocks for Trying to scroll into view a nested scrollbar element&#39;s child](https://stackoverflow.com/questions/73379182/trying-to-scroll-into-view-a-nested-scrollbar-elements-child/78551706#78551706)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
