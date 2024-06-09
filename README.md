@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
+- [How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia)
 - [Answer by Code on the Rocks for How to use client and server components in nextJS if params and query are needed?](https://stackoverflow.com/questions/78595320/how-to-use-client-and-server-components-in-nextjs-if-params-and-query-are-needed/78595589#78595589)
 - [Answer by Code on the Rocks for Route does not match required types of NextJS route, authOptions | NextJS Route Type Error](https://stackoverflow.com/questions/78407624/route-does-not-match-required-types-of-nextjs-route-authoptions-nextjs-route/78595532#78595532)
 - [Answer by Code on the Rocks for How do i make the data in the input feild of my form in next js stay after refresh of the page?](https://stackoverflow.com/questions/71155015/how-do-i-make-the-data-in-the-input-feild-of-my-form-in-next-js-stay-after-refre/78593428#78593428)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
 - [Answer by Code on the Rocks for How to focus and allow writing on a TextField without showing the keyboard in Flutter?](https://stackoverflow.com/questions/78556992/how-to-focus-and-allow-writing-on-a-textfield-without-showing-the-keyboard-in-fl/78557009#78557009)
 - [Answer by Code on the Rocks for Keyboard not appearing after swipe-back gesture when returning to a screen with TextField using GetX](https://stackoverflow.com/questions/78556704/keyboard-not-appearing-after-swipe-back-gesture-when-returning-to-a-screen-with/78556777#78556777)
-- [Answer by Code on the Rocks for Flutter Camera Plugin: Unable to Open Front-Facing Camera](https://stackoverflow.com/questions/78556582/flutter-camera-plugin-unable-to-open-front-facing-camera/78556759#78556759)
-- [Answer by Code on the Rocks for Flutter/Dart: Display One product per Widget, with data retrieved as JSoN From backend API](https://stackoverflow.com/questions/78554829/flutter-dart-display-one-product-per-widget-with-data-retrieved-as-json-from-b/78554920#78554920)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
