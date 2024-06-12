@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Is there a way to add variables in pubspec.yaml file?](https://stackoverflow.com/questions/71049847/is-there-a-way-to-add-variables-in-pubspec-yaml-file/78609550#78609550)
 - [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
 - [How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia)
 - [Answer by Code on the Rocks for How to use client and server components in nextJS if params and query are needed?](https://stackoverflow.com/questions/78595320/how-to-use-client-and-server-components-in-nextjs-if-params-and-query-are-needed/78595589#78595589)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Firebase: 403 PERMISSION_DENIED &lpar;FirebaseError: Installations&rpar;: Requests are blocked, after updating SDKs &lpar;FirebaseInstallationsService&rpar;](https://stackoverflow.com/questions/58495985/firebase-403-permission-denied-firebaseerror-installations-requests-are-blo/78570934#78570934)
 - [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
 - [Answer by Code on the Rocks for How to focus and allow writing on a TextField without showing the keyboard in Flutter?](https://stackoverflow.com/questions/78556992/how-to-focus-and-allow-writing-on-a-textfield-without-showing-the-keyboard-in-fl/78557009#78557009)
-- [Answer by Code on the Rocks for Keyboard not appearing after swipe-back gesture when returning to a screen with TextField using GetX](https://stackoverflow.com/questions/78556704/keyboard-not-appearing-after-swipe-back-gesture-when-returning-to-a-screen-with/78556777#78556777)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
