@@ -24,16 +24,16 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Firebase RemoteConfig on server](https://stackoverflow.com/questions/72614812/firebase-remoteconfig-on-server/78614683#78614683)
+- [Answer by Code on the Rocks for Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa/78614207#78614207)
+- [Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa)
+- [Answer by Code on the Rocks for Module parse failed: Unexpected token &lpar;257:106&rpar; You may need an appropriate loader to handle this file type](https://stackoverflow.com/questions/74323826/module-parse-failed-unexpected-token-257106-you-may-need-an-appropriate-load/78614083#78614083)
+- [Answer by Code on the Rocks for Next.js with Firebase Remote Config](https://stackoverflow.com/questions/74886888/next-js-with-firebase-remote-config/78614080#78614080)
 - [Answer by Code on the Rocks for Is there a way to add variables in pubspec.yaml file?](https://stackoverflow.com/questions/71049847/is-there-a-way-to-add-variables-in-pubspec-yaml-file/78609550#78609550)
 - [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
 - [How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia)
 - [Answer by Code on the Rocks for How to use client and server components in nextJS if params and query are needed?](https://stackoverflow.com/questions/78595320/how-to-use-client-and-server-components-in-nextjs-if-params-and-query-are-needed/78595589#78595589)
 - [Answer by Code on the Rocks for Route does not match required types of NextJS route, authOptions | NextJS Route Type Error](https://stackoverflow.com/questions/78407624/route-does-not-match-required-types-of-nextjs-route-authoptions-nextjs-route/78595532#78595532)
-- [Answer by Code on the Rocks for How do i make the data in the input feild of my form in next js stay after refresh of the page?](https://stackoverflow.com/questions/71155015/how-do-i-make-the-data-in-the-input-feild-of-my-form-in-next-js-stay-after-refre/78593428#78593428)
-- [GET flutter_bootstrap.js net::ERR_ABORTED 404 &lpar;Not Found&rpar;](https://stackoverflow.com/questions/78586612/get-flutter-bootstrap-js-neterr-aborted-404-not-found)
-- [Answer by Code on the Rocks for Firebase: 403 PERMISSION_DENIED &lpar;FirebaseError: Installations&rpar;: Requests are blocked, after updating SDKs &lpar;FirebaseInstallationsService&rpar;](https://stackoverflow.com/questions/58495985/firebase-403-permission-denied-firebaseerror-installations-requests-are-blo/78570934#78570934)
-- [Answer by Code on the Rocks for Dart replacing the node in the abstract syntax tree](https://stackoverflow.com/questions/45266949/dart-replacing-the-node-in-the-abstract-syntax-tree/78567967#78567967)
-- [Answer by Code on the Rocks for How to focus and allow writing on a TextField without showing the keyboard in Flutter?](https://stackoverflow.com/questions/78556992/how-to-focus-and-allow-writing-on-a-textfield-without-showing-the-keyboard-in-fl/78557009#78557009)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
