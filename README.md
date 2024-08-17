@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Muller</h1>
-<h3 align="center">A Mobile App Architect and Software Engineer mostly focused on Full Stack Web and Mobile Development. Flutter 💙. Firebase 🔥.</h3>
+<h3 align="center">A Mobile App Architect and Software Engineer focused on Full Stack Web and Mobile Development. Flutter 💙. Firebase 🔥.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtmuller5&label=Profile%20views&color=0e75b6&style=flat" alt="jtmuller5" /> </p>
 
