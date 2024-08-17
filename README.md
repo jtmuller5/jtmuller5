@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Flutter: Fade in a non network image](https://stackoverflow.com/questions/66777209/flutter-fade-in-a-non-network-image/78882305#78882305)
 - [Answer by Code on the Rocks for Flutter web on Firebase Hosting showing &quot;Page Not Found&quot; when I refresh the webapp](https://stackoverflow.com/questions/78577826/flutter-web-on-firebase-hosting-showing-page-not-found-when-i-refresh-the-weba/78858515#78858515)
 - [Answer by Code on the Rocks for Firebase RemoteConfig on server](https://stackoverflow.com/questions/72614812/firebase-remoteconfig-on-server/78614683#78614683)
 - [Answer by Code on the Rocks for Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa/78614207#78614207)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Is there a way to add variables in pubspec.yaml file?](https://stackoverflow.com/questions/71049847/is-there-a-way-to-add-variables-in-pubspec-yaml-file/78609550#78609550)
 - [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
 - [How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia)
-- [Answer by Code on the Rocks for How to use client and server components in nextJS if params and query are needed?](https://stackoverflow.com/questions/78595320/how-to-use-client-and-server-components-in-nextjs-if-params-and-query-are-needed/78595589#78595589)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
