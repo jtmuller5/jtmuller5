@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Flutter Package : Uncompressed package archive is too large](https://stackoverflow.com/questions/67482453/flutter-package-uncompressed-package-archive-is-too-large/78884702#78884702)
 - [Answer by Code on the Rocks for Flutter: Fade in a non network image](https://stackoverflow.com/questions/66777209/flutter-fade-in-a-non-network-image/78882305#78882305)
 - [Answer by Code on the Rocks for Flutter web on Firebase Hosting showing &quot;Page Not Found&quot; when I refresh the webapp](https://stackoverflow.com/questions/78577826/flutter-web-on-firebase-hosting-showing-page-not-found-when-i-refresh-the-weba/78858515#78858515)
 - [Answer by Code on the Rocks for Firebase RemoteConfig on server](https://stackoverflow.com/questions/72614812/firebase-remoteconfig-on-server/78614683#78614683)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Next.js with Firebase Remote Config](https://stackoverflow.com/questions/74886888/next-js-with-firebase-remote-config/78614080#78614080)
 - [Answer by Code on the Rocks for Is there a way to add variables in pubspec.yaml file?](https://stackoverflow.com/questions/71049847/is-there-a-way-to-add-variables-in-pubspec-yaml-file/78609550#78609550)
 - [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
-- [How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
