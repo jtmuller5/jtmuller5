@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for How to display alert dialog box on back button of browser or onReload the page using Go Router in flutter web?](https://stackoverflow.com/questions/73631454/how-to-display-alert-dialog-box-on-back-button-of-browser-or-onreload-the-page-u/78893128#78893128)
+- [Answer by Code on the Rocks for How to prevent going back to previous page on Flutter Web via browser back button?](https://stackoverflow.com/questions/73914181/how-to-prevent-going-back-to-previous-page-on-flutter-web-via-browser-back-butto/78893114#78893114)
 - [Answer by Code on the Rocks for Flutter Package : Uncompressed package archive is too large](https://stackoverflow.com/questions/67482453/flutter-package-uncompressed-package-archive-is-too-large/78884702#78884702)
 - [Answer by Code on the Rocks for Flutter: Fade in a non network image](https://stackoverflow.com/questions/66777209/flutter-fade-in-a-non-network-image/78882305#78882305)
 - [Answer by Code on the Rocks for Flutter web on Firebase Hosting showing &quot;Page Not Found&quot; when I refresh the webapp](https://stackoverflow.com/questions/78577826/flutter-web-on-firebase-hosting-showing-page-not-found-when-i-refresh-the-weba/78858515#78858515)
@@ -32,8 +34,6 @@
 - [Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa)
 - [Answer by Code on the Rocks for Module parse failed: Unexpected token &lpar;257:106&rpar; You may need an appropriate loader to handle this file type](https://stackoverflow.com/questions/74323826/module-parse-failed-unexpected-token-257106-you-may-need-an-appropriate-load/78614083#78614083)
 - [Answer by Code on the Rocks for Next.js with Firebase Remote Config](https://stackoverflow.com/questions/74886888/next-js-with-firebase-remote-config/78614080#78614080)
-- [Answer by Code on the Rocks for Is there a way to add variables in pubspec.yaml file?](https://stackoverflow.com/questions/71049847/is-there-a-way-to-add-variables-in-pubspec-yaml-file/78609550#78609550)
-- [Answer by Code on the Rocks for How do I plot 1/x in Julia?](https://stackoverflow.com/questions/78598437/how-do-i-plot-1-x-in-julia/78598460#78598460)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
