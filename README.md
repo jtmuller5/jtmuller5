@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for Flutter app running on iOS and Android but not on web](https://stackoverflow.com/questions/78750319/flutter-app-running-on-ios-and-android-but-not-on-web/78907766#78907766)
 - [Answer by Code on the Rocks for How to display alert dialog box on back button of browser or onReload the page using Go Router in flutter web?](https://stackoverflow.com/questions/73631454/how-to-display-alert-dialog-box-on-back-button-of-browser-or-onreload-the-page-u/78893128#78893128)
 - [Answer by Code on the Rocks for How to prevent going back to previous page on Flutter Web via browser back button?](https://stackoverflow.com/questions/73914181/how-to-prevent-going-back-to-previous-page-on-flutter-web-via-browser-back-butto/78893114#78893114)
 - [Answer by Code on the Rocks for Flutter Package : Uncompressed package archive is too large](https://stackoverflow.com/questions/67482453/flutter-package-uncompressed-package-archive-is-too-large/78884702#78884702)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa/78614207#78614207)
 - [Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa)
 - [Answer by Code on the Rocks for Module parse failed: Unexpected token &lpar;257:106&rpar; You may need an appropriate loader to handle this file type](https://stackoverflow.com/questions/74323826/module-parse-failed-unexpected-token-257106-you-may-need-an-appropriate-load/78614083#78614083)
-- [Answer by Code on the Rocks for Next.js with Firebase Remote Config](https://stackoverflow.com/questions/74886888/next-js-with-firebase-remote-config/78614080#78614080)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
