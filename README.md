@@ -24,6 +24,8 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Claude Artifacts:Blocked opening artifact in a new window because the request was made in a sandboxed frame whose &#39;allow-popups&#39; permission is not set](https://stackoverflow.com/questions/78932647/claude-artifactsblocked-opening-artifact-in-a-new-window-because-the-request-wa)
+- [Claude Artifacts: Blocked form submission to &#39;&#39; because the form&#39;s frame is sandboxed and the &#39;allow-forms&#39; permission is not set](https://stackoverflow.com/questions/78932525/claude-artifacts-blocked-form-submission-to-because-the-forms-frame-is-sand)
 - [Answer by Code on the Rocks for Handling Cycle inside Runner; building could produce unreliable results after update xcode to xcode 15](https://stackoverflow.com/questions/77138968/handling-cycle-inside-runner-building-could-produce-unreliable-results-after-up/78911409#78911409)
 - [Answer by Code on the Rocks for Flutter error &#39;package:flutter_web_plugins/flutter_web_plugins.dart&#39;](https://stackoverflow.com/questions/68687900/flutter-error-packageflutter-web-plugins-flutter-web-plugins-dart/78909378#78909378)
 - [Answer by Code on the Rocks for Flutter app running on iOS and Android but not on web](https://stackoverflow.com/questions/78750319/flutter-app-running-on-ios-and-android-but-not-on-web/78907766#78907766)
@@ -32,8 +34,6 @@
 - [Answer by Code on the Rocks for Flutter Package : Uncompressed package archive is too large](https://stackoverflow.com/questions/67482453/flutter-package-uncompressed-package-archive-is-too-large/78884702#78884702)
 - [Answer by Code on the Rocks for Flutter: Fade in a non network image](https://stackoverflow.com/questions/66777209/flutter-fade-in-a-non-network-image/78882305#78882305)
 - [Answer by Code on the Rocks for Flutter web on Firebase Hosting showing &quot;Page Not Found&quot; when I refresh the webapp](https://stackoverflow.com/questions/78577826/flutter-web-on-firebase-hosting-showing-page-not-found-when-i-refresh-the-weba/78858515#78858515)
-- [Answer by Code on the Rocks for Firebase RemoteConfig on server](https://stackoverflow.com/questions/72614812/firebase-remoteconfig-on-server/78614683#78614683)
-- [Answer by Code on the Rocks for Error: [NOT_FOUND]: Template not found for project number 1234512345 and namespace firebase-server](https://stackoverflow.com/questions/78614206/error-not-found-template-not-found-for-project-number-1234512345-and-namespa/78614207#78614207)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
