@@ -24,6 +24,7 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Code on the Rocks for google_sign_in plugin: PlatformException&lpar;sign_in_failed, com.google.android.gms.common.api.ApiException: 10: , null&rpar;](https://stackoverflow.com/questions/76957461/google-sign-in-plugin-platformexceptionsign-in-failed-com-google-android-gms/78961441#78961441)
 - [Claude Artifacts:Blocked opening artifact in a new window because the request was made in a sandboxed frame whose &#39;allow-popups&#39; permission is not set](https://stackoverflow.com/questions/78932647/claude-artifactsblocked-opening-artifact-in-a-new-window-because-the-request-wa)
 - [Claude Artifacts: Blocked form submission to &#39;&#39; because the form&#39;s frame is sandboxed and the &#39;allow-forms&#39; permission is not set](https://stackoverflow.com/questions/78932525/claude-artifacts-blocked-form-submission-to-because-the-forms-frame-is-sand)
 - [Answer by Code on the Rocks for Handling Cycle inside Runner; building could produce unreliable results after update xcode to xcode 15](https://stackoverflow.com/questions/77138968/handling-cycle-inside-runner-building-could-produce-unreliable-results-after-up/78911409#78911409)
@@ -33,7 +34,6 @@
 - [Answer by Code on the Rocks for How to prevent going back to previous page on Flutter Web via browser back button?](https://stackoverflow.com/questions/73914181/how-to-prevent-going-back-to-previous-page-on-flutter-web-via-browser-back-butto/78893114#78893114)
 - [Answer by Code on the Rocks for Flutter Package : Uncompressed package archive is too large](https://stackoverflow.com/questions/67482453/flutter-package-uncompressed-package-archive-is-too-large/78884702#78884702)
 - [Answer by Code on the Rocks for Flutter: Fade in a non network image](https://stackoverflow.com/questions/66777209/flutter-fade-in-a-non-network-image/78882305#78882305)
-- [Answer by Code on the Rocks for Flutter web on Firebase Hosting showing &quot;Page Not Found&quot; when I refresh the webapp](https://stackoverflow.com/questions/78577826/flutter-web-on-firebase-hosting-showing-page-not-found-when-i-refresh-the-weba/78858515#78858515)
 <!-- STACKOVERFLOW:END -->
 
 ## Connect with me
