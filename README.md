@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli)
 
-- 📝 I regularly write articles on [my blog](https://jtmuller5.github.io/)
+- 📝 I regularly write articles on [my blog](https://joemuller.com)
 
 - 💬 Ask me about **Flutter and Firebase**
 
