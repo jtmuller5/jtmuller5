@@ -8,7 +8,7 @@
 - 🤖 [Crashify](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.crashify-chat-extension): VS Code chat extension to generate language-specific crash course documentation for coding topics
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🕸️ [Docagram](https://github.com/jtmuller5/docagram/): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
-- 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli): CLI for genearting Flutter boilerplate
+- 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli): CLI for generating Flutter boilerplate
 - 📝 [Blog](https://joemuller.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmuller5&show_icons=true&locale=en" alt="jtmuller5" /></p>
