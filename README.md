@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Joe Muller</h1>
-<h3 align="center">I'm a software developer and philosopher.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtmuller5&label=Profile%20views&color=0e75b6&style=flat" alt="jtmuller5" /> </p>
 
-- 🔭 I’m currently working on the [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli)
+<h1 align="center">Hi 👋, I'm Joe Muller</h1>
+<h3 align="center">Full time dev, part time philosopher</h3>
 
-- 📝 I regularly write articles on [my blog](https://joemuller.com)
+## Projects
+- 📋 [Clibbits](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits)
+- 🤖 [Crashify](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.crashify-chat-extension)
+- 🍰 [Bakedown](https://bento.me/bakedown)
+- 🕸️ [Docagram](https://github.com/jtmuller5/docagram/)
+- 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli)
+- 📝 [Blog](https://joemuller.com)
 
-- 💬 Ask me about **Flutter and Firebase**
-
-- 📫 How to reach me **jtmuller5@gmail.com**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmuller5&show_icons=true&locale=en" alt="jtmuller5" /></p>
 
 ## Connect with me
