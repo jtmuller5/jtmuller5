@@ -4,6 +4,7 @@
 <h3 align="center">Full time dev, part time philosopher</h3>
 
 ## Projects
+- 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
 - 📋 [Clibbits](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
