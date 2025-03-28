@@ -4,9 +4,10 @@
 <h3 align="center">Full time dev, part time philosopher</h3>
 
 ## Projects
+- 📋 [Clibbits](https://clibbits.com): Copy and paste platform for AI developers
+- 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 🃏 [FoolScript](https://foolscript.com): Code like a Fool (CLI, Snippets, Chat Extension)
 - 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
-- 📋 [Clibbits](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🕸️ [Docagram](https://github.com/jtmuller5/docagram/): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
