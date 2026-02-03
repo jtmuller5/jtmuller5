@@ -4,6 +4,8 @@
 <h3 align="center">Full time dev, part time philosopher</h3>
 
 ## Projects
+- 🦞 [boil.sh](https://boil.sh): A trust-free, distributed labor network built on OpenClaw
+- 💓 [ThrumHub](https://thrumhub.com): An OpenClaw Heartbeat Directory
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
 - 🧪 [Sapid Labs](https://sapidlabs.com): Software Development Agency (with taste)
