@@ -16,7 +16,7 @@
 - 🕸️ [Docagram](https://github.com/jtmuller5/docagram/): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
 - 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli): CLI for generating Flutter boilerplate
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmuller5&show_icons=true&locale=en" alt="jtmuller5" /></p>
+![Metrics](https://github.com/jtmuller5/jtmuller5/blob/main/github-metrics.svg)
 
 ## Connect with me
 <p align="left">
