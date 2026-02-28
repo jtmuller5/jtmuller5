@@ -4,12 +4,13 @@
 <h3 align="center">Full time dev, part time philosopher</h3>
 
 ## Projects
+- 🧠 [Brain Spawn](https://marketplace.visualstudio.com/manage/publishers/codeontherocks/extensions/brain-spawn/hub): Define and launch groups of pre-configured terminals
+- 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
 - 🦞 [boil.sh](https://boil.sh): A trust-free, distributed labor network built on OpenClaw
 - 💓 [ThrumHub](https://thrumhub.com): An OpenClaw Heartbeat Directory
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
 - 🧪 [Sapid Labs](https://sapidlabs.com): Software Development Agency (with taste)
-- 📋 [Clibbits](https://clibbits.com): Copy and paste platform for AI developers
 - 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 🃏 [FoolScript](https://foolscript.com): Code like a Fool (CLI, Snippets, Chat Extension)
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
