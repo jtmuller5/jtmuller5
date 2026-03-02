@@ -4,7 +4,7 @@
 <h3 align="center">Full time dev, part time philosopher</h3>
 
 ## Projects
-- 🧠 [Brain Spawn](https://marketplace.visualstudio.com/manage/publishers/codeontherocks/extensions/brain-spawn/hub): Define and launch groups of pre-configured terminals
+- 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
 - 🦞 [boil.sh](https://boil.sh): A trust-free, distributed labor network built on OpenClaw
 - 💓 [ThrumHub](https://thrumhub.com): An OpenClaw Heartbeat Directory
