@@ -1,8 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtmuller5&label=Profile%20views&color=0e75b6&style=flat" alt="jtmuller5" /> </p>
-
-<h1 align="center">Hi 👋, I'm Joe Muller</h1>
-<h3 align="center">Full time dev, part time philosopher</h3>
-
 ## Projects
 - 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
