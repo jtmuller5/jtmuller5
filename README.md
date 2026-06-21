@@ -17,7 +17,14 @@
 - 🕸️ [Docagram](https://github.com/jtmuller5/docagram/): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
 - 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli): CLI for generating Flutter boilerplate
 
-![Metrics](https://github.com/jtmuller5/jtmuller5/blob/main/github-metrics.svg)
+<p align="center">
+  <img src="https://ghchart.rshah.org/jtmuller5" alt="Joe Muller's GitHub contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtmuller5&theme=github-compact&hide_border=true" alt="Joe Muller's contribution graph" />
+</p>
+
 
 ## Connect with me
 <p align="left">
@@ -27,10 +34,3 @@
 <a href="https://medium.com/@jtmuller5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jtmuller5" height="30" width="40" /></a>
 </p>
 
-## Support me and my projects
-
-<a href="https://buymeacoffee.com/mullr" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<br>
-<br>
-
-[:heart: Sponsor on GitHub](https://github.com/sponsors/jtmuller5) 
