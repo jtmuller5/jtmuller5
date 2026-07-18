@@ -1,11 +1,12 @@
 ## Projects
+- ⚡️ [How to Spark](https://howtospark.com): DGX Spark owner's guide to running LLMs at home
 - 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🧪 [Sapid Labs](https://sapidlabs.com): Big Models, Small Machines
 - 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
-- 🕸️ [Docagram]([https://github.com/jtmuller5/docagram/](https://devpost.com/software/deverywhere)): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
+- 🕸️ [Docagram](https://devpost.com/software/deverywhere): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
 
 ## Discontinued
 - 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
