@@ -1,6 +1,7 @@
 ## Projects
 - ⚡️ [How to Spark](https://howtospark.com): DGX Spark owner's guide to running LLMs at home
 - 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
+- ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
 - 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
 - 🧪 [Sapid Labs](https://sapidlabs.com): Big Models, Small Machines
