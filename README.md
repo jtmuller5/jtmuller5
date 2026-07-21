@@ -3,7 +3,7 @@
 - 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
 - ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
-- 🍰 [Bakedown](https://bento.me/bakedown): Collect and develop recipes with AI
+- 🍰 [Bakedown](https://apps.apple.com/us/app/bakedown/id6445965871): Collect and develop recipes with AI
 - 🧪 [Sapid Labs](https://sapidlabs.com): Big Models, Small Machines
 - 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
