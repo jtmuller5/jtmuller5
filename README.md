@@ -1,21 +1,20 @@
 ## Projects
 - ⚡️ [How to Spark](https://howtospark.com): DGX Spark owner's guide to running LLMs at home
-- 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
-- ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 - 📋 [Clibbits](https://clibbits.com): The last clipboarding tool you'll need before the singularity
 - 🍰 [Bakedown](https://apps.apple.com/us/app/bakedown/id6445965871): Collect and develop recipes with AI
 - 🧪 [Sapid Labs](https://sapidlabs.com): Big Models, Small Machines
-- 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - 📝 [Blog](https://joemuller.com): Musings about software, side projects, and life
-- 🕸️ [Docagram](https://devpost.com/software/deverywhere): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
 
 ## Discontinued
 - 🔵 [Blueprint Protocol](https://bento.me/blueprint): The Blueprint Protocol, simplified
 - 🦞 [boil.sh](https://boil.sh): A trust-free, distributed labor network built on OpenClaw
+- 🧠 [Brain Spawn](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.brain-spawn): Define and launch groups of pre-configured terminals
 - 💓 [ThrumHub](https://thrumhub.com): An OpenClaw Heartbeat Directory
+- 🕸️ [Docagram](https://devpost.com/software/deverywhere): Chrome extension to generate visual representations of browser pages using Chrome's built-in AI
 - 💙 [Flutter Fast CLI](https://pub.dev/packages/flutter_fast_cli): CLI for generating Flutter boilerplate
 - 🃏 [FoolScript](https://foolscript.com): Code like a Fool (CLI, Snippets, Chat Extension)
-
+- 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
+- ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 
 <p align="center">
   <img src="https://ghchart.rshah.org/jtmuller5" alt="Joe Muller's GitHub contribution chart" />
