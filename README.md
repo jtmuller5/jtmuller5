@@ -16,9 +16,6 @@
 - 📋 [Clibbits VS Code](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits): VS Code extension with commands to easily copy parts of your code base for LLMs
 - ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/jtmuller5" alt="Joe Muller's GitHub contribution chart" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtmuller5&theme=github-compact&hide_border=true" alt="Joe Muller's contribution graph" />
