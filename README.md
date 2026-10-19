@@ -17,11 +17,6 @@
 - ❗️ [ExcuseMe](https://github.com/Sapid-Labs/excuseme): Slack app for answering Claude questions while you're away
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtmuller5&theme=github-compact&hide_border=true" alt="Joe Muller's contribution graph" />
-</p>
-
-
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/BosonJoe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jtmuller5" height="30" width="40" /></a>
